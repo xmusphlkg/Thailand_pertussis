@@ -1,0 +1,2104 @@
+Areas,Cases,Incidence,Deaths,CFR,Mortality,Population,Year,Disease
+Total,72,0.11,0,0.00,0.00,62623416,2006,Pertussis
+North Region,60,0.50,0,0.00,0.00,11887142,2006,Pertussis
+Zone:1,60,1.04,0,0.00,0.00,5748673,2006,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1654154,2006,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1225386,2006,Pertussis
+Lampang,0,0.00,0,0.00,0.00,775259,2006,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405146,2006,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,254392,2006,Pertussis
+Nan,60,12.56,0,0.00,0.00,477871,2006,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486554,2006,Pertussis
+Phrae,0,0.00,0,0.00,0.00,469911,2006,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,3448091,2006,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,1002388,2006,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,842739,2006,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,609591,2006,Pertussis
+Tak,0,0.00,0,0.00,0.00,524938,2006,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,468435,2006,Pertussis
+Zone:3,0,0.00,0,0.00,0.00,2690378,2006,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728293,2006,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1076911,2006,Pertussis
+Phichit,0,0.00,0,0.00,0.00,558314,2006,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,326860,2006,Pertussis
+Central Region,1,0.00,0,0.00,0.00,20825142,2006,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5677455,2006,Pertussis
+Zone:4,0,0.00,0,0.00,0.00,2858658,2006,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,283861,2006,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,985669,2006,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,750757,2006,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,838371,2006,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1915186,2006,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,339568,2006,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,752364,2006,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,605897,2006,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,217357,2006,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3315213,2006,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,830309,2006,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,815433,2006,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,826212,2006,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,843259,2006,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1598232,2006,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,455332,2006,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,490607,2006,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,457264,2006,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,195029,2006,Pertussis
+Zone:8,1,0.03,0,0.00,0.00,2983258,2006,Pertussis
+Chachoengsao,1,0.15,0,0.00,0.00,650909,2006,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,250392,2006,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,451721,2006,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,537661,2006,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1092575,2006,Pertussis
+Zone:9,0,0.00,0,0.00,0.00,2477140,2006,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,500275,2006,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1190861,2006,Pertussis
+Rayong,0,0.00,0,0.00,0.00,566461,2006,Pertussis
+Trat,0,0.00,0,0.00,0.00,219543,2006,Pertussis
+North-Eastern Region,7,0.03,0,0.00,0.00,21352480,2006,Pertussis
+Zone:10,0,0.00,0,0.00,0.00,3533061,2006,Pertussis
+Loei,0,0.00,0,0.00,0.00,612863,2006,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,496675,2006,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,897840,2006,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1525683,2006,Pertussis
+Zone:11,2,0.06,0,0.00,0.00,3110390,2006,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,974560,2006,Pertussis
+Mukdahan,1,0.30,0,0.00,0.00,334781,2006,Pertussis
+Nakhon Phanom,1,0.14,0,0.00,0.00,694473,2006,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1106576,2006,Pertussis
+Zone:12,4,0.10,0,0.00,0.00,3996666,2006,Pertussis
+Khon Kaen,4,0.23,0,0.00,0.00,1749021,2006,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,937285,2006,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1310360,2006,Pertussis
+Zone:13,1,0.02,0,0.00,0.00,6578271,2006,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1534076,2006,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1118040,2006,Pertussis
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2551176,2006,Pertussis
+Surin,0,0.00,0,0.00,0.00,1374979,2006,Pertussis
+Zone:14,0,0.00,0,0.00,0.00,4134092,2006,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,368863,2006,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1445230,2006,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1778922,2006,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,541077,2006,Pertussis
+South Region,4,0.05,0,0.00,0.00,8558652,2006,Pertussis
+Zone:15,0,0.00,0,0.00,0.00,1610374,2006,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,477364,2006,Pertussis
+Ranong,0,0.00,0,0.00,0.00,178986,2006,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,954024,2006,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2614100,2006,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1507440,2006,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,501912,2006,Pertussis
+Trang,0,0.00,0,0.00,0.00,604748,2006,Pertussis
+Zone:17,4,0.43,0,0.00,0.00,939424,2006,Pertussis
+Krabi,3,0.75,0,0.00,0.00,399514,2006,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,243419,2006,Pertussis
+Phuket,1,0.34,0,0.00,0.00,296491,2006,Pertussis
+Zone:18,0,0.00,0,0.00,0.00,1805088,2006,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,703848,2006,Pertussis
+Pattani,0,0.00,0,0.00,0.00,635053,2006,Pertussis
+Yala,0,0.00,0,0.00,0.00,466187,2006,Pertussis
+Zone:19,0,0.00,0,0.00,0.00,1589666,2006,Pertussis
+Satun,0,0.00,0,0.00,0.00,279705,2006,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1309961,2006,Pertussis
+Total,24,0.04,1,4.17,0.00,64076033,2013,Pertussis
+Central Region,9,0.04,0,0.00,0.00,21734984,2013,Pertussis
+Zone:0,3,0.05,0,0.00,0.00,5674843,2013,Pertussis
+Bangkok,3,0.05,0,0.00,0.00,5674843,2013,Pertussis
+Zone:1,0,0.00,0,0.00,0.00,3541632,2013,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1122627,2013,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,787653,2013,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1010898,2013,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,620454,2013,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,1587031,2013,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284061,2013,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,333256,2013,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,756127,2013,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,213587,2013,Pertussis
+Zone:3,1,0.03,0,0.00,0.00,3151672,2013,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,679370,2013,Pertussis
+Nakhon Nayok,1,0.39,0,0.00,0.00,253831,2013,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,469652,2013,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,545596,2013,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1203223,2013,Pertussis
+Zone:4,5,0.15,0,0.00,0.00,3392715,2013,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,838914,2013,Pertussis
+Nakhon Pathom,4,0.46,0,0.00,0.00,866064,2013,Pertussis
+Ratchaburi,1,0.12,0,0.00,0.00,842684,2013,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,845053,2013,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1671831,2013,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,466079,2013,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,512568,2013,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,499098,2013,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194086,2013,Pertussis
+Zone:9,0,0.00,0,0.00,0.00,2715260,2013,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,516855,2013,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1338656,2013,Pertussis
+Rayong,0,0.00,0,0.00,0.00,637736,2013,Pertussis
+Trat,0,0.00,0,0.00,0.00,222013,2013,Pertussis
+South Region,0,0.00,0,0.00,0.00,8971855,2013,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3541380,2013,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,492182,2013,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1526071,2013,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,511063,2013,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1012064,2013,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1857374,2013,Pertussis
+Krabi,0,0.00,0,0.00,0.00,438039,2013,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,254931,2013,Pertussis
+Phuket,0,0.00,0,0.00,0.00,353847,2013,Pertussis
+Ranong,0,0.00,0,0.00,0.00,183849,2013,Pertussis
+Trang,0,0.00,0,0.00,0.00,626708,2013,Pertussis
+Zone:8,0,0.00,0,0.00,0.00,3573101,2013,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,747372,2013,Pertussis
+Pattani,0,0.00,0,0.00,0.00,663485,2013,Pertussis
+Satun,0,0.00,0,0.00,0.00,301467,2013,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1367010,2013,Pertussis
+Yala,0,0.00,0,0.00,0.00,493767,2013,Pertussis
+North-Eastern Region,11,0.05,1,9.09,0.00,21585883,2013,Pertussis
+Zone:10,2,0.06,1,50.00,0.03,3593082,2013,Pertussis
+Bungkan,1,0.25,1,100.00,0.25,407634,2013,Pertussis
+Loei,0,0.00,0,0.00,0.00,624920,2013,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502551,2013,Pertussis
+Nong Khai,1,0.20,0,0.00,0.00,509870,2013,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1548107,2013,Pertussis
+Zone:11,1,0.05,0,0.00,0.00,2168700,2013,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,340581,2013,Pertussis
+Nakhon Phanom,1,0.14,0,0.00,0.00,704768,2013,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1123351,2013,Pertussis
+Zone:12,2,0.04,0,0.00,0.00,4992515,2013,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,981655,2013,Pertussis
+Khon Kaen,2,0.11,0,0.00,0.00,1766066,2013,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,939736,2013,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1305058,2013,Pertussis
+Zone:13,6,0.14,0,0.00,0.00,4179354,2013,Pertussis
+Amnat Charoen,1,0.27,0,0.00,0.00,372241,2013,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452203,2013,Pertussis
+Ubon Ratchathani,5,0.28,0,0.00,0.00,1816057,2013,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,538853,2013,Pertussis
+Zone:14,0,0.00,0,0.00,0.00,6652232,2013,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1559085,2013,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1127423,2013,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2585325,2013,Pertussis
+Surin,0,0.00,0,0.00,0.00,1380399,2013,Pertussis
+North Region,4,0.03,0,0.00,0.00,11783311,2013,Pertussis
+Zone:15,1,0.03,0,0.00,0.00,3051678,2013,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1646144,2013,Pertussis
+Lampang,0,0.00,0,0.00,0.00,757534,2013,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,403952,2013,Pertussis
+Mae Hong Son,1,0.41,0,0.00,0.00,244048,2013,Pertussis
+Zone:16,1,0.04,0,0.00,0.00,2620490,2013,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1198656,2013,Pertussis
+Nan,1,0.21,0,0.00,0.00,476612,2013,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486472,2013,Pertussis
+Phrae,0,0.00,0,0.00,0.00,458750,2013,Pertussis
+Zone:17,1,0.03,0,0.00,0.00,3435726,2013,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,990807,2013,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,851357,2013,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,601504,2013,Pertussis
+Tak,1,0.19,0,0.00,0.00,531018,2013,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,461040,2013,Pertussis
+Zone:18,1,0.04,0,0.00,0.00,2675417,2013,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726009,2013,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1071686,2013,Pertussis
+Phichit,1,0.18,0,0.00,0.00,549688,2013,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,328034,2013,Pertussis
+Total,16,0.03,0,0.00,0.00,63214022,2008,Pertussis
+Central Region,8,0.04,0,0.00,0.00,21226352,2008,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5713566,2008,Pertussis
+Zone:1,0,0.00,0,0.00,0.00,3335057,2008,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1038392,2008,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,764919,2008,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,913047,2008,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,618699,2008,Pertussis
+Zone:2,1,0.06,0,0.00,0.00,1588582,2008,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284619,2008,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,336550,2008,Pertussis
+Lop Buri,1,0.13,0,0.00,0.00,751811,2008,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,215602,2008,Pertussis
+Zone:3,2,0.07,0,0.00,0.00,3046070,2008,Pertussis
+Chachoengsao,1,0.15,0,0.00,0.00,661898,2008,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,249625,2008,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,457184,2008,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,540281,2008,Pertussis
+Samut Prakan,1,0.09,0,0.00,0.00,1137082,2008,Pertussis
+Zone:4,3,0.09,0,0.00,0.00,3352570,2008,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,838094,2008,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,837285,2008,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,833650,2008,Pertussis
+Suphan Buri,3,0.36,0,0.00,0.00,843541,2008,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1623176,2008,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,457518,2008,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,497483,2008,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,474041,2008,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194134,2008,Pertussis
+Zone:9,2,0.08,0,0.00,0.00,2567331,2008,Pertussis
+Chanthaburi,1,0.20,0,0.00,0.00,506012,2008,Pertussis
+Chon Buri,1,0.08,0,0.00,0.00,1249067,2008,Pertussis
+Rayong,0,0.00,0,0.00,0.00,591067,2008,Pertussis
+Trat,0,0.00,0,0.00,0.00,221185,2008,Pertussis
+South Region,1,0.01,0,0.00,0.00,8698196,2008,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3473895,2008,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,483011,2008,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1510081,2008,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,503847,2008,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,976956,2008,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1778692,2008,Pertussis
+Krabi,0,0.00,0,0.00,0.00,414670,2008,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,248411,2008,Pertussis
+Phuket,0,0.00,0,0.00,0.00,321252,2008,Pertussis
+Ranong,0,0.00,0,0.00,0.00,181758,2008,Pertussis
+Trang,0,0.00,0,0.00,0.00,612601,2008,Pertussis
+Zone:8,1,0.03,0,0.00,0.00,3445609,2008,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,715724,2008,Pertussis
+Pattani,1,0.16,0,0.00,0.00,639988,2008,Pertussis
+Satun,0,0.00,0,0.00,0.00,286446,2008,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1330342,2008,Pertussis
+Yala,0,0.00,0,0.00,0.00,473109,2008,Pertussis
+North-Eastern Region,2,0.01,0,0.00,0.00,21414180,2008,Pertussis
+Zone:10,0,0.00,0,0.00,0.00,3553449,2008,Pertussis
+Loei,0,0.00,0,0.00,0.00,616981,2008,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,498562,2008,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,904748,2008,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1533158,2008,Pertussis
+Zone:11,0,0.00,0,0.00,0.00,2149587,2008,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,336802,2008,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,698235,2008,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1114550,2008,Pertussis
+Zone:12,2,0.04,0,0.00,0.00,4976635,2008,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,978046,2008,Pertussis
+Khon Kaen,2,0.11,0,0.00,0.00,1754258,2008,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,936430,2008,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1307901,2008,Pertussis
+Zone:13,0,0.00,0,0.00,0.00,4141403,2008,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,369196,2008,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1442212,2008,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1790581,2008,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,539414,2008,Pertussis
+Zone:14,0,0.00,0,0.00,0.00,6593106,2008,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1538861,2008,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1121123,2008,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2559006,2008,Pertussis
+Surin,0,0.00,0,0.00,0.00,1374116,2008,Pertussis
+North Region,5,0.04,0,0.00,0.00,11875294,2008,Pertussis
+Zone:15,1,0.03,0,0.00,0.00,3095362,2008,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1667358,2008,Pertussis
+Lampang,0,0.00,0,0.00,0.00,769115,2008,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405141,2008,Pertussis
+Mae Hong Son,1,0.39,0,0.00,0.00,253748,2008,Pertussis
+Zone:16,2,0.08,0,0.00,0.00,2654508,2008,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1226165,2008,Pertussis
+Nan,2,0.42,0,0.00,0.00,476683,2008,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486983,2008,Pertussis
+Phrae,0,0.00,0,0.00,0.00,464677,2008,Pertussis
+Zone:17,1,0.03,0,0.00,0.00,3443651,2008,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,996882,2008,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,842840,2008,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,604559,2008,Pertussis
+Tak,0,0.00,0,0.00,0.00,534629,2008,Pertussis
+Uttaradit,1,0.22,0,0.00,0.00,464741,2008,Pertussis
+Zone:18,1,0.04,0,0.00,0.00,2681773,2008,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726104,2008,Pertussis
+Nakhon Sawan,1,0.09,0,0.00,0.00,1073962,2008,Pertussis
+Phichit,0,0.00,0,0.00,0.00,554426,2008,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,327281,2008,Pertussis
+Total,23,0.04,0,0.00,0.00,62933515,2007,Pertussis
+North Region,12,0.10,0,0.00,0.00,11881352,2007,Pertussis
+Zone:1,8,0.14,0,0.00,0.00,5750312,2007,Pertussis
+Chiang Mai,1,0.06,0,0.00,0.00,1661349,2007,Pertussis
+Chiang Rai,1,0.08,0,0.00,0.00,1225364,2007,Pertussis
+Lampang,0,0.00,0,0.00,0.00,772202,2007,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405361,2007,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,254990,2007,Pertussis
+Nan,6,1.26,0,0.00,0.00,477522,2007,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486399,2007,Pertussis
+Phrae,0,0.00,0,0.00,0.00,467125,2007,Pertussis
+Zone:2,2,0.06,0,0.00,0.00,3445764,2007,Pertussis
+Phetchabun,1,0.10,0,0.00,0.00,999924,2007,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,843096,2007,Pertussis
+Sukhothai,1,0.16,0,0.00,0.00,607061,2007,Pertussis
+Tak,0,0.00,0,0.00,0.00,529303,2007,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,466380,2007,Pertussis
+Zone:3,2,0.07,0,0.00,0.00,2685276,2007,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,727158,2007,Pertussis
+Nakhon Sawan,1,0.09,0,0.00,0.00,1074849,2007,Pertussis
+Phichit,0,0.00,0,0.00,0.00,556287,2007,Pertussis
+Uthai Thani,1,0.31,0,0.00,0.00,326982,2007,Pertussis
+Central Region,3,0.01,0,0.00,0.00,21043273,2007,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5706103,2007,Pertussis
+Zone:4,1,0.03,0,0.00,0.00,2932544,2007,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284175,2007,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1011624,2007,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,757654,2007,Pertussis
+Pathum Thani,1,0.11,0,0.00,0.00,879091,2007,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1918492,2007,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,338077,2007,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,751298,2007,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,612806,2007,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,216311,2007,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3334732,2007,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,834865,2007,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,826438,2007,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,830184,2007,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,843245,2007,Pertussis
+Zone:7,1,0.06,0,0.00,0.00,1611697,2007,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,456371,2007,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,494502,2007,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,466222,2007,Pertussis
+Samut Songkhram,1,0.51,0,0.00,0.00,194602,2007,Pertussis
+Zone:8,1,0.03,0,0.00,0.00,3016265,2007,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,656586,2007,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,249250,2007,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,454404,2007,Pertussis
+Sa Kaeo,1,0.19,0,0.00,0.00,538741,2007,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1117284,2007,Pertussis
+Zone:9,0,0.00,0,0.00,0.00,2523440,2007,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,503197,2007,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1221369,2007,Pertussis
+Rayong,0,0.00,0,0.00,0.00,578628,2007,Pertussis
+Trat,0,0.00,0,0.00,0.00,220246,2007,Pertussis
+North-Eastern Region,2,0.01,0,0.00,0.00,21381249,2007,Pertussis
+Zone:10,0,0.00,0,0.00,0.00,3541793,2007,Pertussis
+Loei,0,0.00,0,0.00,0.00,614421,2007,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497148,2007,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,901100,2007,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1529124,2007,Pertussis
+Zone:11,0,0.00,0,0.00,0.00,3119599,2007,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,976536,2007,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,335778,2007,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,696229,2007,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1111056,2007,Pertussis
+Zone:12,1,0.03,0,0.00,0.00,3997622,2007,Pertussis
+Khon Kaen,1,0.06,0,0.00,0.00,1751458,2007,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,936846,2007,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1309318,2007,Pertussis
+Zone:13,0,0.00,0,0.00,0.00,6583974,2007,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1536396,2007,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1119372,2007,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2554241,2007,Pertussis
+Surin,0,0.00,0,0.00,0.00,1373965,2007,Pertussis
+Zone:14,1,0.02,0,0.00,0.00,4138261,2007,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,368925,2007,Pertussis
+Si Sa Ket,1,0.07,0,0.00,0.00,1444748,2007,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1784372,2007,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,540216,2007,Pertussis
+South Region,6,0.07,0,0.00,0.00,8627641,2007,Pertussis
+Zone:15,1,0.06,0,0.00,0.00,1626011,2007,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,480131,2007,Pertussis
+Ranong,0,0.00,0,0.00,0.00,180319,2007,Pertussis
+Surat Thani,1,0.10,0,0.00,0.00,965561,2007,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2620564,2007,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1508729,2007,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,502943,2007,Pertussis
+Trang,0,0.00,0,0.00,0.00,608892,2007,Pertussis
+Zone:17,2,0.21,0,0.00,0.00,961258,2007,Pertussis
+Krabi,1,0.25,0,0.00,0.00,406999,2007,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,246141,2007,Pertussis
+Phuket,1,0.32,0,0.00,0.00,308118,2007,Pertussis
+Zone:18,1,0.06,0,0.00,0.00,1815585,2007,Pertussis
+Narathiwat,1,0.14,0,0.00,0.00,709345,2007,Pertussis
+Pattani,0,0.00,0,0.00,0.00,636768,2007,Pertussis
+Yala,0,0.00,0,0.00,0.00,469472,2007,Pertussis
+Zone:19,2,0.12,0,0.00,0.00,1604223,2007,Pertussis
+Satun,0,0.00,0,0.00,0.00,283014,2007,Pertussis
+Songkhla,2,0.15,0,0.00,0.00,1321209,2007,Pertussis
+Total,24,0.04,1,4.17,0.00,62939819,2003,Pertussis
+North Region,2,0.02,0,0.00,0.00,12120537,2003,Pertussis
+Zone:1,1,0.02,0,0.00,0.00,5764017,2003,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1599538,2003,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1244564,2003,Pertussis
+Lampang,0,0.00,0,0.00,0.00,798996,2003,Pertussis
+Lamphun,1,0.25,0,0.00,0.00,408122,2003,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,239128,2003,Pertussis
+Nan,0,0.00,0,0.00,0.00,484961,2003,Pertussis
+Phayao,0,0.00,0,0.00,0.00,505032,2003,Pertussis
+Phrae,0,0.00,0,0.00,0.00,483676,2003,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,3523807,2003,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,1046537,2003,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,867520,2003,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,623396,2003,Pertussis
+Tak,0,0.00,0,0.00,0.00,503042,2003,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,483312,2003,Pertussis
+Zone:3,1,0.04,0,0.00,0.00,2832713,2003,Pertussis
+Kamphaeng Phet,1,0.13,0,0.00,0.00,771177,2003,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1128789,2003,Pertussis
+Phichit,0,0.00,0,0.00,0.00,594918,2003,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,337829,2003,Pertussis
+Central Region,9,0.04,0,0.00,0.00,20726962,2003,Pertussis
+Zone:0,1,0.02,0,0.00,0.00,5813383,2003,Pertussis
+Bangkok,1,0.02,0,0.00,0.00,5813383,2003,Pertussis
+Zone:4,0,0.00,0,0.00,0.00,2679573,2003,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,290623,2003,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,915043,2003,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,749751,2003,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,724156,2003,Pertussis
+Zone:5,2,0.10,0,0.00,0.00,1964953,2003,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,349881,2003,Pertussis
+Lop Buri,2,0.26,0,0.00,0.00,768250,2003,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,623783,2003,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,223039,2003,Pertussis
+Zone:6,1,0.03,0,0.00,0.00,3304766,2003,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,799588,2003,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,807180,2003,Pertussis
+Ratchaburi,1,0.12,0,0.00,0.00,832005,2003,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,865993,2003,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1602142,2003,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,461539,2003,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,490479,2003,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,445557,2003,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,204567,2003,Pertussis
+Zone:8,3,0.10,0,0.00,0.00,2933038,2003,Pertussis
+Chachoengsao,1,0.15,0,0.00,0.00,651130,2003,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,251471,2003,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,453379,2003,Pertussis
+Sa Kaeo,2,0.37,0,0.00,0.00,540274,2003,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1036784,2003,Pertussis
+Zone:9,2,0.08,0,0.00,0.00,2429107,2003,Pertussis
+Chanthaburi,1,0.20,0,0.00,0.00,508799,2003,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1143498,2003,Pertussis
+Rayong,0,0.00,0,0.00,0.00,551652,2003,Pertussis
+Trat,1,0.44,0,0.00,0.00,225158,2003,Pertussis
+North-Eastern Region,10,0.05,0,0.00,0.00,21634442,2003,Pertussis
+Zone:10,1,0.03,0,0.00,0.00,3579272,2003,Pertussis
+Loei,0,0.00,0,0.00,0.00,629836,2003,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,499257,2003,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,911409,2003,Pertussis
+Udon Thani,1,0.06,0,0.00,0.00,1538770,2003,Pertussis
+Zone:11,1,0.03,0,0.00,0.00,3157810,2003,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,992407,2003,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,338675,2003,Pertussis
+Nakhon Phanom,1,0.14,0,0.00,0.00,715991,2003,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1110737,2003,Pertussis
+Zone:12,2,0.05,0,0.00,0.00,4035398,2003,Pertussis
+Khon Kaen,2,0.11,0,0.00,0.00,1769124,2003,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,943647,2003,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1322627,2003,Pertussis
+Zone:13,4,0.06,0,0.00,0.00,6676759,2003,Pertussis
+Buri Ram,1,0.06,0,0.00,0.00,1549894,2003,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1137725,2003,Pertussis
+Nakhon Ratchasima,3,0.12,0,0.00,0.00,2586146,2003,Pertussis
+Surin,0,0.00,0,0.00,0.00,1402994,2003,Pertussis
+Zone:14,2,0.05,0,0.00,0.00,4185203,2003,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,370494,2003,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1462254,2003,Pertussis
+Ubon Ratchathani,2,0.11,0,0.00,0.00,1799048,2003,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,553407,2003,Pertussis
+South Region,3,0.04,1,33.33,0.01,8457878,2003,Pertussis
+Zone:15,1,0.06,0,0.00,0.00,1566662,2003,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,475467,2003,Pertussis
+Ranong,0,0.00,0,0.00,0.00,163298,2003,Pertussis
+Surat Thani,1,0.11,0,0.00,0.00,927897,2003,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2642568,2003,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1532483,2003,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,504526,2003,Pertussis
+Trang,0,0.00,0,0.00,0.00,605559,2003,Pertussis
+Zone:17,0,0.00,0,0.00,0.00,895704,2003,Pertussis
+Krabi,0,0.00,0,0.00,0.00,381184,2003,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,240062,2003,Pertussis
+Phuket,0,0.00,0,0.00,0.00,274458,2003,Pertussis
+Zone:18,0,0.00,0,0.00,0.00,1797937,2003,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,704096,2003,Pertussis
+Pattani,0,0.00,0,0.00,0.00,631288,2003,Pertussis
+Yala,0,0.00,0,0.00,0.00,462553,2003,Pertussis
+Zone:19,2,0.13,1,50.00,0.06,1555007,2003,Pertussis
+Satun,0,0.00,0,0.00,0.00,272252,2003,Pertussis
+Songkhla,2,0.16,1,50.00,0.08,1282755,2003,Pertussis
+Total,1147,1.74,1,0.09,0.00,66071545,2024,Pertussis
+ZONE:01,4,0.07,0,0.00,0.00,5857413,2024,Pertussis
+Chiang Mai,2,0.11,0,0.00,0.00,1794774,2024,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1299306,2024,Pertussis
+Lampang,0,0.00,0,0.00,0.00,715133,2024,Pertussis
+Lamphun,2,0.50,0,0.00,0.00,398998,2024,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,287215,2024,Pertussis
+Nan,0,0.00,0,0.00,0.00,473630,2024,Pertussis
+Phayao,0,0.00,0,0.00,0.00,459858,2024,Pertussis
+Phrae,0,0.00,0,0.00,0.00,428499,2024,Pertussis
+ZONE:02,1,0.03,0,0.00,0.00,3522489,2024,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,970403,2024,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,843111,2024,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,579759,2024,Pertussis
+Tak,1,0.15,0,0.00,0.00,687927,2024,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,441289,2024,Pertussis
+ZONE:03,1,0.03,0,0.00,0.00,2896463,2024,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,317263,2024,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,706861,2024,Pertussis
+Nakhon Sawan,1,0.10,0,0.00,0.00,1025348,2024,Pertussis
+Phichit,0,0.00,0,0.00,0.00,523925,2024,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,323066,2024,Pertussis
+ZONE:04,3,0.06,0,0.00,0.00,5438863,2024,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,271656,2024,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,732495,2024,Pertussis
+Nakhon Nayok,1,0.38,0,0.00,0.00,260261,2024,Pertussis
+Nonthaburi,2,0.15,0,0.00,0.00,1302004,2024,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,821261,2024,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1210365,2024,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,638704,2024,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,202117,2024,Pertussis
+ZONE:05,21,0.39,0,0.00,0.00,5326695,2024,Pertussis
+Kanchanaburi,1,0.11,0,0.00,0.00,894781,2024,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,923201,2024,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,483305,2024,Pertussis
+Prachuap Khiri Khan,19,3.44,0,0.00,0.00,552137,2024,Pertussis
+Ratchaburi,1,0.12,0,0.00,0.00,865276,2024,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,590730,2024,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,188723,2024,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,828542,2024,Pertussis
+ZONE:06,9,0.14,0,0.00,0.00,6292163,2024,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,728615,2024,Pertussis
+Chanthaburi,3,0.56,0,0.00,0.00,536290,2024,Pertussis
+Chon Buri,1,0.06,0,0.00,0.00,1606412,2024,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,498671,2024,Pertussis
+Rayong,0,0.00,0,0.00,0.00,765287,2024,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,562860,2024,Pertussis
+Samut Prakan,5,0.37,0,0.00,0.00,1366598,2024,Pertussis
+Trat,0,0.00,0,0.00,0.00,227430,2024,Pertussis
+ZONE:07,2,0.04,0,0.00,0.00,4981337,2024,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,970084,2024,Pertussis
+Khon Kaen,1,0.06,0,0.00,0.00,1782008,2024,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,941261,2024,Pertussis
+Roi Et,1,0.08,0,0.00,0.00,1287984,2024,Pertussis
+ZONE:08,0,0.00,0,0.00,0.00,5500012,2024,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,421086,2024,Pertussis
+Loei,0,0.00,0,0.00,0.00,636242,2024,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,715466,2024,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,507599,2024,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,514909,2024,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1143922,2024,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1560788,2024,Pertussis
+ZONE:09,1,0.01,0,0.00,0.00,6689028,2024,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1575073,2024,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1115652,2024,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2627927,2024,Pertussis
+Surin,1,0.07,0,0.00,0.00,1370376,2024,Pertussis
+ZONE:10,0,0.00,0,0.00,0.00,4578831,2024,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,374760,2024,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,351592,2024,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452532,2024,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869708,2024,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,530239,2024,Pertussis
+ZONE:11,12,0.27,0,0.00,0.00,4489783,2024,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,509122,2024,Pertussis
+Krabi,0,0.00,0,0.00,0.00,481089,2024,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1543051,2024,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,267250,2024,Pertussis
+Phuket,11,2.61,0,0.00,0.00,420746,2024,Pertussis
+Ranong,0,0.00,0,0.00,0.00,193799,2024,Pertussis
+Surat Thani,1,0.09,0,0.00,0.00,1074726,2024,Pertussis
+ZONE:12,1067,21.28,1,0.09,0.02,5015209,2024,Pertussis
+Narathiwat,198,24.25,0,0.00,0.00,816642,2024,Pertussis
+Pattani,199,27.07,0,0.00,0.00,735017,2024,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,521109,2024,Pertussis
+Satun,0,0.00,0,0.00,0.00,325387,2024,Pertussis
+Songkhla,93,6.50,0,0.00,0.00,1431512,2024,Pertussis
+Trang,0,0.00,0,0.00,0.00,637612,2024,Pertussis
+Yala,577,105.31,1,0.17,0.18,547930,2024,Pertussis
+ZONE:13,26,0.47,0,0.00,0.00,5483259,2024,Pertussis
+Bangkok,26,0.47,0,0.00,0.00,5483259,2024,Pertussis
+Total,23,0.04,0,0.00,0.00,62195878,2005,Pertussis
+North Region,3,0.03,0,0.00,0.00,11862916,2005,Pertussis
+Zone:1,3,0.05,0,0.00,0.00,5729312,2005,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1640390,2005,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1219732,2005,Pertussis
+Lampang,0,0.00,0,0.00,0.00,777827,2005,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,404754,2005,Pertussis
+Mae Hong Son,3,1.21,0,0.00,0.00,248672,2005,Pertussis
+Nan,0,0.00,0,0.00,0.00,477917,2005,Pertussis
+Phayao,0,0.00,0,0.00,0.00,487616,2005,Pertussis
+Phrae,0,0.00,0,0.00,0.00,472404,2005,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,3442642,2005,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,1001820,2005,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,841248,2005,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,610871,2005,Pertussis
+Tak,0,0.00,0,0.00,0.00,519037,2005,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,469666,2005,Pertussis
+Zone:3,0,0.00,0,0.00,0.00,2690962,2005,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,727351,2005,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1077634,2005,Pertussis
+Phichit,0,0.00,0,0.00,0.00,559611,2005,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,326366,2005,Pertussis
+Central Region,3,0.01,0,0.00,0.00,20560399,2005,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5646543,2005,Pertussis
+Zone:4,0,0.00,0,0.00,0.00,2777019,2005,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,283373,2005,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,957287,2005,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,743659,2005,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,792700,2005,Pertussis
+Zone:5,2,0.10,0,0.00,0.00,1909368,2005,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,340812,2005,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,750718,2005,Pertussis
+Saraburi,2,0.33,0,0.00,0.00,598905,2005,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,218933,2005,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3282327,2005,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,818218,2005,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,803489,2005,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,819286,2005,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,841334,2005,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1578246,2005,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,452506,2005,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,483243,2005,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,447353,2005,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,195144,2005,Pertussis
+Zone:8,1,0.03,0,0.00,0.00,2943051,2005,Pertussis
+Chachoengsao,1,0.15,0,0.00,0.00,645521,2005,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,249686,2005,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,447783,2005,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,536591,2005,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1063470,2005,Pertussis
+Zone:9,0,0.00,0,0.00,0.00,2423845,2005,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,496081,2005,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1157709,2005,Pertussis
+Rayong,0,0.00,0,0.00,0.00,551512,2005,Pertussis
+Trat,0,0.00,0,0.00,0.00,218543,2005,Pertussis
+North-Eastern Region,14,0.07,0,0.00,0.00,21297778,2005,Pertussis
+Zone:10,2,0.06,0,0.00,0.00,3524138,2005,Pertussis
+Loei,0,0.00,0,0.00,0.00,611448,2005,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,495626,2005,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,895911,2005,Pertussis
+Udon Thani,2,0.13,0,0.00,0.00,1521153,2005,Pertussis
+Zone:11,1,0.03,0,0.00,0.00,3101003,2005,Pertussis
+Kalasin,1,0.10,0,0.00,0.00,972425,2005,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,333338,2005,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,692377,2005,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1102863,2005,Pertussis
+Zone:12,5,0.13,0,0.00,0.00,3991075,2005,Pertussis
+Khon Kaen,4,0.23,0,0.00,0.00,1744646,2005,Pertussis
+Maha Sarakham,1,0.11,0,0.00,0.00,935967,2005,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1310462,2005,Pertussis
+Zone:13,2,0.03,0,0.00,0.00,6560991,2005,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1527846,2005,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1117026,2005,Pertussis
+Nakhon Ratchasima,2,0.08,0,0.00,0.00,2543054,2005,Pertussis
+Surin,0,0.00,0,0.00,0.00,1373065,2005,Pertussis
+Zone:14,4,0.10,0,0.00,0.00,4120571,2005,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,368153,2005,Pertussis
+Si Sa Ket,2,0.14,0,0.00,0.00,1442190,2005,Pertussis
+Ubon Ratchathani,2,0.11,0,0.00,0.00,1768935,2005,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,541293,2005,Pertussis
+South Region,3,0.04,0,0.00,0.00,8474785,2005,Pertussis
+Zone:15,1,0.06,0,0.00,0.00,1593965,2005,Pertussis
+Chumphon,1,0.21,0,0.00,0.00,473916,2005,Pertussis
+Ranong,0,0.00,0,0.00,0.00,177247,2005,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,942802,2005,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2600847,2005,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1502382,2005,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,499399,2005,Pertussis
+Trang,0,0.00,0,0.00,0.00,599066,2005,Pertussis
+Zone:17,1,0.11,0,0.00,0.00,921037,2005,Pertussis
+Krabi,1,0.26,0,0.00,0.00,391709,2005,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,240254,2005,Pertussis
+Phuket,0,0.00,0,0.00,0.00,289074,2005,Pertussis
+Zone:18,1,0.06,0,0.00,0.00,1791264,2005,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,697150,2005,Pertussis
+Pattani,0,0.00,0,0.00,0.00,632119,2005,Pertussis
+Yala,1,0.22,0,0.00,0.00,461995,2005,Pertussis
+Zone:19,0,0.00,0,0.00,0.00,1567672,2005,Pertussis
+Satun,0,0.00,0,0.00,0.00,275706,2005,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1291966,2005,Pertussis
+Total,51,0.08,2,3.92,0.00,65124716,2015,Pertussis
+ZONE:00,6,0.11,1,16.67,0.02,5692284,2015,Pertussis
+Bangkok,6,0.11,1,16.67,0.02,5692284,2015,Pertussis
+ZONE:01,2,0.04,0,0.00,0.00,5709443,2015,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1678284,2015,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1207699,2015,Pertussis
+Lampang,1,0.13,0,0.00,0.00,753013,2015,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405468,2015,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,248178,2015,Pertussis
+Nan,0,0.00,0,0.00,0.00,478264,2015,Pertussis
+Phayao,1,0.21,0,0.00,0.00,484454,2015,Pertussis
+Phrae,0,0.00,0,0.00,0.00,454083,2015,Pertussis
+ZONE:02,0,0.00,0,0.00,0.00,3457208,2015,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,995807,2015,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,858988,2015,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,602460,2015,Pertussis
+Tak,0,0.00,0,0.00,0.00,539553,2015,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,460400,2015,Pertussis
+ZONE:03,0,0.00,0,0.00,0.00,3012283,2015,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,332283,2015,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729522,2015,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072756,2015,Pertussis
+Phichit,0,0.00,0,0.00,0.00,547543,2015,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,330179,2015,Pertussis
+ZONE:04,3,0.06,0,0.00,0.00,5196419,2015,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,283568,2015,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,758406,2015,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,257300,2015,Pertussis
+Nonthaburi,1,0.09,0,0.00,0.00,1173870,2015,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,803599,2015,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1074058,2015,Pertussis
+Saraburi,2,0.32,0,0.00,0.00,633460,2015,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,212158,2015,Pertussis
+ZONE:05,3,0.06,0,0.00,0.00,5166914,2015,Pertussis
+Kanchanaburi,1,0.12,0,0.00,0.00,848198,2015,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,891071,2015,Pertussis
+Phetchaburi,2,0.42,0,0.00,0.00,474192,2015,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,525107,2015,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,853217,2015,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,531887,2015,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194189,2015,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,849053,2015,Pertussis
+ZONE:06,0,0.00,0,0.00,0.00,5836407,2015,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,695478,2015,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,527350,2015,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1421425,2015,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,479314,2015,Pertussis
+Rayong,0,0.00,0,0.00,0.00,674393,2015,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,552187,2015,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1261530,2015,Pertussis
+Trat,0,0.00,0,0.00,0.00,224730,2015,Pertussis
+ZONE:07,2,0.04,0,0.00,0.00,5043862,2015,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,984907,2015,Pertussis
+Khon Kaen,2,0.11,0,0.00,0.00,1790049,2015,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,960588,2015,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1308318,2015,Pertussis
+ZONE:08,1,0.02,0,0.00,0.00,5501453,2015,Pertussis
+Bungkan,1,0.24,0,0.00,0.00,418566,2015,Pertussis
+Loei,0,0.00,0,0.00,0.00,634513,2015,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,713341,2015,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508864,2015,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,517260,2015,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1138609,2015,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1570300,2015,Pertussis
+ZONE:09,5,0.07,0,0.00,0.00,6728450,2015,Pertussis
+Buri Ram,3,0.19,0,0.00,0.00,1579248,2015,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1137049,2015,Pertussis
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2620517,2015,Pertussis
+Surin,1,0.07,0,0.00,0.00,1391636,2015,Pertussis
+ZONE:10,5,0.11,0,0.00,0.00,4571489,2015,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,375380,2015,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,346016,2015,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1465213,2015,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1844669,2015,Pertussis
+Yasothon,5,0.93,0,0.00,0.00,540211,2015,Pertussis
+ZONE:11,2,0.05,0,0.00,0.00,4362467,2015,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,500575,2015,Pertussis
+Krabi,0,0.00,0,0.00,0.00,456811,2015,Pertussis
+Nakhon Si Thammarat,1,0.06,0,0.00,0.00,1548028,2015,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,261370,2015,Pertussis
+Phuket,0,0.00,0,0.00,0.00,378364,2015,Pertussis
+Ranong,0,0.00,0,0.00,0.00,177089,2015,Pertussis
+Surat Thani,1,0.10,0,0.00,0.00,1040230,2015,Pertussis
+ZONE:12,22,0.45,1,4.55,0.02,4846037,2015,Pertussis
+Narathiwat,2,0.26,0,0.00,0.00,774799,2015,Pertussis
+Pattani,1,0.15,0,0.00,0.00,686186,2015,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,520419,2015,Pertussis
+Satun,0,0.00,0,0.00,0.00,312673,2015,Pertussis
+Songkhla,10,0.71,1,10.00,0.07,1401303,2015,Pertussis
+Trang,0,0.00,0,0.00,0.00,638746,2015,Pertussis
+Yala,9,1.76,0,0.00,0.00,511911,2015,Pertussis
+Total,12,0.02,0,0.00,0.00,63977185,2011,Pertussis
+Central Region,6,0.03,0,0.00,0.00,21679246,2011,Pertussis
+Zone:0,3,0.05,0,0.00,0.00,5688119,2011,Pertussis
+Bangkok,3,0.05,0,0.00,0.00,5688119,2011,Pertussis
+Zone:1,0,0.00,0,0.00,0.00,3514250,2011,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1112185,2011,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,784875,2011,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,998271,2011,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,618919,2011,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,1588727,2011,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284516,2011,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,334096,2011,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,755991,2011,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,214124,2011,Pertussis
+Zone:3,0,0.00,0,0.00,0.00,3137098,2011,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,676652,2011,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,253283,2011,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,468113,2011,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,544848,2011,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1194202,2011,Pertussis
+Zone:4,1,0.03,0,0.00,0.00,3388832,2011,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,839345,2011,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,863155,2011,Pertussis
+Ratchaburi,1,0.12,0,0.00,0.00,840880,2011,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,845452,2011,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1665473,2011,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,465056,2011,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,510852,2011,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,495493,2011,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194072,2011,Pertussis
+Zone:9,2,0.07,0,0.00,0.00,2696747,2011,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,515736,2011,Pertussis
+Chon Buri,2,0.15,0,0.00,0.00,1327475,2011,Pertussis
+Rayong,0,0.00,0,0.00,0.00,632069,2011,Pertussis
+Trat,0,0.00,0,0.00,0.00,221467,2011,Pertussis
+South Region,3,0.03,0,0.00,0.00,8932459,2011,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3531913,2011,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,491073,2011,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1524317,2011,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,510299,2011,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1006224,2011,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1846999,2011,Pertussis
+Krabi,0,0.00,0,0.00,0.00,435372,2011,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,254022,2011,Pertussis
+Phuket,0,0.00,0,0.00,0.00,349457,2011,Pertussis
+Ranong,0,0.00,0,0.00,0.00,183464,2011,Pertussis
+Trang,0,0.00,0,0.00,0.00,624684,2011,Pertussis
+Zone:8,3,0.08,0,0.00,0.00,3553547,2011,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,742268,2011,Pertussis
+Pattani,0,0.00,0,0.00,0.00,659373,2011,Pertussis
+Satun,0,0.00,0,0.00,0.00,299315,2011,Pertussis
+Songkhla,1,0.07,0,0.00,0.00,1362017,2011,Pertussis
+Yala,2,0.41,0,0.00,0.00,490574,2011,Pertussis
+North-Eastern Region,1,0.00,0,0.00,0.00,21579612,2011,Pertussis
+Zone:10,0,0.00,0,0.00,0.00,3588872,2011,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,203818,2011,Pertussis
+Loei,0,0.00,0,0.00,0.00,624493,2011,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502710,2011,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,711404,2011,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1546447,2011,Pertussis
+Zone:11,0,0.00,0,0.00,0.00,2167288,2011,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,340079,2011,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,704080,2011,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1123129,2011,Pertussis
+Zone:12,0,0.00,0,0.00,0.00,4996659,2011,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,982117,2011,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1766834,2011,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,940324,2011,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1307384,2011,Pertussis
+Zone:13,0,0.00,0,0.00,0.00,4178156,2011,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,372190,2011,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452338,2011,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1814573,2011,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,539055,2011,Pertussis
+Zone:14,1,0.02,0,0.00,0.00,6648637,2011,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1556426,2011,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1127423,2011,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2583707,2011,Pertussis
+Surin,1,0.07,0,0.00,0.00,1381081,2011,Pertussis
+North Region,2,0.02,0,0.00,0.00,11785868,2011,Pertussis
+Zone:15,1,0.03,0,0.00,0.00,3050706,2011,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1643312,2011,Pertussis
+Lampang,0,0.00,0,0.00,0.00,759742,2011,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,404257,2011,Pertussis
+Mae Hong Son,1,0.41,0,0.00,0.00,243395,2011,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2621067,2011,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1198438,2011,Pertussis
+Nan,0,0.00,0,0.00,0.00,476488,2011,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486388,2011,Pertussis
+Phrae,0,0.00,0,0.00,0.00,459753,2011,Pertussis
+Zone:17,1,0.03,0,0.00,0.00,3435767,2011,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,993420,2011,Pertussis
+Phitsanulok,1,0.12,0,0.00,0.00,850525,2011,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,601642,2011,Pertussis
+Tak,0,0.00,0,0.00,0.00,528351,2011,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,461829,2011,Pertussis
+Zone:18,0,0.00,0,0.00,0.00,2678328,2011,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726551,2011,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072591,2011,Pertussis
+Phichit,0,0.00,0,0.00,0.00,551189,2011,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,327997,2011,Pertussis
+Total,14,0.02,0,0.00,0.00,64075986,2012,Pertussis
+Central Region,6,0.03,0,0.00,0.00,21734984,2012,Pertussis
+Zone:0,2,0.04,0,0.00,0.00,5674843,2012,Pertussis
+Bangkok,2,0.04,0,0.00,0.00,5674843,2012,Pertussis
+Zone:1,1,0.03,0,0.00,0.00,3541632,2012,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1122627,2012,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,787653,2012,Pertussis
+Pathum Thani,1,0.10,0,0.00,0.00,1010898,2012,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,620454,2012,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,1587031,2012,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284061,2012,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,333256,2012,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,756127,2012,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,213587,2012,Pertussis
+Zone:3,2,0.06,0,0.00,0.00,3151672,2012,Pertussis
+Chachoengsao,2,0.29,0,0.00,0.00,679370,2012,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,253831,2012,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,469652,2012,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,545596,2012,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1203223,2012,Pertussis
+Zone:4,1,0.03,0,0.00,0.00,3392715,2012,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,838914,2012,Pertussis
+Nakhon Pathom,1,0.12,0,0.00,0.00,866064,2012,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,842684,2012,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,845053,2012,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1671831,2012,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,466079,2012,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,512568,2012,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,499098,2012,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194086,2012,Pertussis
+Zone:9,0,0.00,0,0.00,0.00,2715260,2012,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,516855,2012,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1338656,2012,Pertussis
+Rayong,0,0.00,0,0.00,0.00,637736,2012,Pertussis
+Trat,0,0.00,0,0.00,0.00,222013,2012,Pertussis
+South Region,4,0.04,0,0.00,0.00,8971808,2012,Pertussis
+Zone:6,2,0.06,0,0.00,0.00,3541333,2012,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,492182,2012,Pertussis
+Nakhon Si Thammarat,2,0.13,0,0.00,0.00,1526071,2012,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,511016,2012,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1012064,2012,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1857374,2012,Pertussis
+Krabi,0,0.00,0,0.00,0.00,438039,2012,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,254931,2012,Pertussis
+Phuket,0,0.00,0,0.00,0.00,353847,2012,Pertussis
+Ranong,0,0.00,0,0.00,0.00,183849,2012,Pertussis
+Trang,0,0.00,0,0.00,0.00,626708,2012,Pertussis
+Zone:8,2,0.06,0,0.00,0.00,3573101,2012,Pertussis
+Narathiwat,1,0.13,0,0.00,0.00,747372,2012,Pertussis
+Pattani,0,0.00,0,0.00,0.00,663485,2012,Pertussis
+Satun,0,0.00,0,0.00,0.00,301467,2012,Pertussis
+Songkhla,1,0.07,0,0.00,0.00,1367010,2012,Pertussis
+Yala,0,0.00,0,0.00,0.00,493767,2012,Pertussis
+North-Eastern Region,4,0.02,0,0.00,0.00,21585883,2012,Pertussis
+Zone:10,2,0.06,0,0.00,0.00,3593082,2012,Pertussis
+Bungkan,1,0.25,0,0.00,0.00,407634,2012,Pertussis
+Loei,0,0.00,0,0.00,0.00,624920,2012,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,502551,2012,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,509870,2012,Pertussis
+Udon Thani,1,0.06,0,0.00,0.00,1548107,2012,Pertussis
+Zone:11,1,0.05,0,0.00,0.00,2168700,2012,Pertussis
+Mukdahan,1,0.29,0,0.00,0.00,340581,2012,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,704768,2012,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1123351,2012,Pertussis
+Zone:12,1,0.02,0,0.00,0.00,4992515,2012,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,981655,2012,Pertussis
+Khon Kaen,1,0.06,0,0.00,0.00,1766066,2012,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,939736,2012,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1305058,2012,Pertussis
+Zone:13,0,0.00,0,0.00,0.00,4179354,2012,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,372241,2012,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452203,2012,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1816057,2012,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,538853,2012,Pertussis
+Zone:14,0,0.00,0,0.00,0.00,6652232,2012,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1559085,2012,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1127423,2012,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2585325,2012,Pertussis
+Surin,0,0.00,0,0.00,0.00,1380399,2012,Pertussis
+North Region,0,0.00,0,0.00,0.00,11783311,2012,Pertussis
+Zone:15,0,0.00,0,0.00,0.00,3051678,2012,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1646144,2012,Pertussis
+Lampang,0,0.00,0,0.00,0.00,757534,2012,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,403952,2012,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,244048,2012,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2620490,2012,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1198656,2012,Pertussis
+Nan,0,0.00,0,0.00,0.00,476612,2012,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486472,2012,Pertussis
+Phrae,0,0.00,0,0.00,0.00,458750,2012,Pertussis
+Zone:17,0,0.00,0,0.00,0.00,3435726,2012,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,990807,2012,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,851357,2012,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,601504,2012,Pertussis
+Tak,0,0.00,0,0.00,0.00,531018,2012,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,461040,2012,Pertussis
+Zone:18,0,0.00,0,0.00,0.00,2675417,2012,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726009,2012,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1071686,2012,Pertussis
+Phichit,0,0.00,0,0.00,0.00,549688,2012,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,328034,2012,Pertussis
+Total,77,0.12,2,2.60,0.00,66060027,2017,Pertussis
+ZONE:01,6,0.10,0,0.00,0.00,5864232,2017,Pertussis
+Chiang Mai,1,0.06,0,0.00,0.00,1741301,2017,Pertussis
+Chiang Rai,3,0.23,0,0.00,0.00,1285080,2017,Pertussis
+Lampang,0,0.00,0,0.00,0.00,747699,2017,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405959,2017,Pertussis
+Mae Hong Son,2,0.72,0,0.00,0.00,277486,2017,Pertussis
+Nan,0,0.00,0,0.00,0.00,479877,2017,Pertussis
+Phayao,0,0.00,0,0.00,0.00,478144,2017,Pertussis
+Phrae,0,0.00,0,0.00,0.00,448686,2017,Pertussis
+ZONE:02,1,0.03,0,0.00,0.00,3556376,2017,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,995277,2017,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,865564,2017,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,599775,2017,Pertussis
+Tak,1,0.16,0,0.00,0.00,638115,2017,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,457645,2017,Pertussis
+ZONE:03,1,0.03,1,100.00,0.03,2998104,2017,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,330077,2017,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729337,2017,Pertussis
+Nakhon Sawan,1,0.09,1,100.00,0.09,1065895,2017,Pertussis
+Phichit,0,0.00,0,0.00,0.00,542674,2017,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,330121,2017,Pertussis
+ZONE:04,3,0.06,0,0.00,0.00,5302492,2017,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,281796,2017,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,757296,2017,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,258850,2017,Pertussis
+Nonthaburi,3,0.25,0,0.00,0.00,1220829,2017,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,812086,2017,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1120246,2017,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,641052,2017,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,210337,2017,Pertussis
+ZONE:05,10,0.19,0,0.00,0.00,5295696,2017,Pertussis
+Kanchanaburi,1,0.11,0,0.00,0.00,886546,2017,Pertussis
+Nakhon Pathom,2,0.22,0,0.00,0.00,908249,2017,Pertussis
+Phetchaburi,2,0.42,0,0.00,0.00,481514,2017,Pertussis
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,541756,2017,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,870769,2017,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,562592,2017,Pertussis
+Samut Songkhram,1,0.52,0,0.00,0.00,193985,2017,Pertussis
+Suphan Buri,3,0.35,0,0.00,0.00,850285,2017,Pertussis
+ZONE:06,3,0.05,0,0.00,0.00,6020790,2017,Pertussis
+Chachoengsao,1,0.14,0,0.00,0.00,707145,2017,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,533463,2017,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1496086,2017,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,486187,2017,Pertussis
+Rayong,1,0.14,0,0.00,0.00,705729,2017,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,560478,2017,Pertussis
+Samut Prakan,1,0.08,0,0.00,0.00,1302160,2017,Pertussis
+Trat,0,0.00,0,0.00,0.00,229542,2017,Pertussis
+ZONE:07,3,0.06,0,0.00,0.00,5060674,2017,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,985619,2017,Pertussis
+Khon Kaen,3,0.17,0,0.00,0.00,1803831,2017,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,963277,2017,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1307947,2017,Pertussis
+ZONE:08,1,0.02,0,0.00,0.00,5541473,2017,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,422328,2017,Pertussis
+Loei,0,0.00,0,0.00,0.00,640734,2017,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,717451,2017,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511188,2017,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,521125,2017,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1147710,2017,Pertussis
+Udon Thani,1,0.06,0,0.00,0.00,1580937,2017,Pertussis
+ZONE:09,3,0.04,0,0.00,0.00,6760383,2017,Pertussis
+Buri Ram,1,0.06,0,0.00,0.00,1589900,2017,Pertussis
+Chaiyaphum,1,0.09,0,0.00,0.00,1138778,2017,Pertussis
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2635331,2017,Pertussis
+Surin,0,0.00,0,0.00,0.00,1396374,2017,Pertussis
+ZONE:10,12,0.26,0,0.00,0.00,4604905,2017,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,377614,2017,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,350128,2017,Pertussis
+Si Sa Ket,1,0.07,0,0.00,0.00,1471185,2017,Pertussis
+Ubon Ratchathani,10,0.54,0,0.00,0.00,1866299,2017,Pertussis
+Yasothon,1,0.19,0,0.00,0.00,539679,2017,Pertussis
+ZONE:11,1,0.02,0,0.00,0.00,4441086,2017,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,508627,2017,Pertussis
+Krabi,0,0.00,0,0.00,0.00,467851,2017,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1555957,2017,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,266535,2017,Pertussis
+Phuket,1,0.25,0,0.00,0.00,398092,2017,Pertussis
+Ranong,0,0.00,0,0.00,0.00,189777,2017,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1054247,2017,Pertussis
+ZONE:12,18,0.37,1,5.56,0.02,4929285,2017,Pertussis
+Narathiwat,1,0.13,0,0.00,0.00,792961,2017,Pertussis
+Pattani,7,0.99,1,14.29,0.14,705379,2017,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,524291,2017,Pertussis
+Satun,0,0.00,0,0.00,0.00,318655,2017,Pertussis
+Songkhla,5,0.35,0,0.00,0.00,1420834,2017,Pertussis
+Trang,0,0.00,0,0.00,0.00,642377,2017,Pertussis
+Yala,5,0.95,0,0.00,0.00,524788,2017,Pertussis
+ZONE:13,15,0.26,0,0.00,0.00,5684531,2017,Pertussis
+Bangkok,15,0.26,0,0.00,0.00,5684531,2017,Pertussis
+Total,19,0.03,0,0.00,0.00,66171439,2022,Pertussis
+ZONE:01,9,0.15,0,0.00,0.00,5874503,2022,Pertussis
+Chiang Mai,9,0.50,0,0.00,0.00,1789385,2022,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1298425,2022,Pertussis
+Lampang,0,0.00,0,0.00,0.00,724678,2022,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,401139,2022,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,285916,2022,Pertussis
+Nan,0,0.00,0,0.00,0.00,475875,2022,Pertussis
+Phayao,0,0.00,0,0.00,0.00,464505,2022,Pertussis
+Phrae,0,0.00,0,0.00,0.00,434580,2022,Pertussis
+ZONE:02,0,0.00,0,0.00,0.00,3533839,2022,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,978372,2022,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,847384,2022,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,585352,2022,Pertussis
+Tak,0,0.00,0,0.00,0.00,676583,2022,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,446148,2022,Pertussis
+ZONE:03,0,0.00,0,0.00,0.00,2922114,2022,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,320432,2022,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,712143,2022,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1035028,2022,Pertussis
+Phichit,0,0.00,0,0.00,0.00,529395,2022,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,325116,2022,Pertussis
+ZONE:04,0,0.00,0,0.00,0.00,5422367,2022,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,274763,2022,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,739473,2022,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260433,2022,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1288637,2022,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820512,2022,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1190060,2022,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,643963,2022,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,204526,2022,Pertussis
+ZONE:05,0,0.00,0,0.00,0.00,5333543,2022,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,894054,2022,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,922171,2022,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,482875,2022,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553171,2022,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,868281,2022,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,586789,2022,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,190842,2022,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,835360,2022,Pertussis
+ZONE:06,3,0.05,0,0.00,0.00,6237892,2022,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,724178,2022,Pertussis
+Chanthaburi,2,0.37,0,0.00,0.00,536557,2022,Pertussis
+Chon Buri,1,0.06,0,0.00,0.00,1583672,2022,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,495325,2022,Pertussis
+Rayong,0,0.00,0,0.00,0.00,751343,2022,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,561992,2022,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1356449,2022,Pertussis
+Trat,0,0.00,0,0.00,0.00,228376,2022,Pertussis
+ZONE:07,0,0.00,0,0.00,0.00,5010756,2022,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,975570,2022,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1790863,2022,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,948310,2022,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1296013,2022,Pertussis
+ZONE:08,0,0.00,0,0.00,0.00,5516407,2022,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,421995,2022,Pertussis
+Loei,0,0.00,0,0.00,0.00,638732,2022,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,717040,2022,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509001,2022,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,516843,2022,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1146286,2022,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1566510,2022,Pertussis
+ZONE:09,3,0.04,0,0.00,0.00,6712454,2022,Pertussis
+Buri Ram,2,0.13,0,0.00,0.00,1579805,2022,Pertussis
+Chaiyaphum,1,0.09,0,0.00,0.00,1122265,2022,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2634154,2022,Pertussis
+Surin,0,0.00,0,0.00,0.00,1376230,2022,Pertussis
+ZONE:10,0,0.00,0,0.00,0.00,4587303,2022,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,376350,2022,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,351484,2022,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1457556,2022,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1868519,2022,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,533394,2022,Pertussis
+ZONE:11,0,0.00,0,0.00,0.00,4492012,2022,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,509479,2022,Pertussis
+Krabi,0,0.00,0,0.00,0.00,479351,2022,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1549344,2022,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,268016,2022,Pertussis
+Phuket,0,0.00,0,0.00,0.00,418785,2022,Pertussis
+Ranong,0,0.00,0,0.00,0.00,194573,2022,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1072464,2022,Pertussis
+ZONE:12,2,0.04,0,0.00,0.00,5000255,2022,Pertussis
+Narathiwat,2,0.25,0,0.00,0.00,809660,2022,Pertussis
+Pattani,0,0.00,0,0.00,0.00,729581,2022,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,522541,2022,Pertussis
+Satun,0,0.00,0,0.00,0.00,324835,2022,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1431536,2022,Pertussis
+Trang,0,0.00,0,0.00,0.00,639788,2022,Pertussis
+Yala,0,0.00,0,0.00,0.00,542314,2022,Pertussis
+ZONE:13,2,0.04,0,0.00,0.00,5527994,2022,Pertussis
+Bangkok,2,0.04,0,0.00,0.00,5527994,2022,Pertussis
+Total,8,0.01,0,0.00,0.00,66179083,2021,Pertussis
+ZONE:01,0,0.00,0,0.00,0.00,5875424,2021,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1786877,2021,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1296725,2021,Pertussis
+Lampang,0,0.00,0,0.00,0.00,726821,2021,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,401574,2021,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,285232,2021,Pertussis
+Nan,0,0.00,0,0.00,0.00,476300,2021,Pertussis
+Phayao,0,0.00,0,0.00,0.00,465930,2021,Pertussis
+Phrae,0,0.00,0,0.00,0.00,435965,2021,Pertussis
+ZONE:02,0,0.00,0,0.00,0.00,3536074,2021,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,980156,2021,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,848432,2021,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,586617,2021,Pertussis
+Tak,0,0.00,0,0.00,0.00,673423,2021,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,447446,2021,Pertussis
+ZONE:03,0,0.00,0,0.00,0.00,2928596,2021,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,321454,2021,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,713130,2021,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1037668,2021,Pertussis
+Phichit,0,0.00,0,0.00,0.00,530852,2021,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,325492,2021,Pertussis
+ZONE:04,0,0.00,0,0.00,0.00,5411959,2021,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,275673,2021,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,741200,2021,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260256,2021,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1282690,2021,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819799,2021,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1183235,2021,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,643895,2021,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,205211,2021,Pertussis
+ZONE:05,0,0.00,0,0.00,0.00,5332653,2021,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,893014,2021,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,921450,2021,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,482534,2021,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551924,2021,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,868797,2021,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,586494,2021,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,191447,2021,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,836993,2021,Pertussis
+ZONE:06,0,0.00,0,0.00,0.00,6218594,2021,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,722448,2021,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,536058,2021,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1575278,2021,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,494498,2021,Pertussis
+Rayong,0,0.00,0,0.00,0.00,746433,2021,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,561459,2021,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1353964,2021,Pertussis
+Trat,0,0.00,0,0.00,0.00,228456,2021,Pertussis
+ZONE:07,1,0.02,0,0.00,0.00,5017381,2021,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,976373,2021,Pertussis
+Khon Kaen,1,0.06,0,0.00,0.00,1792697,2021,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,950985,2021,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1297326,2021,Pertussis
+ZONE:08,2,0.04,0,0.00,0.00,5518109,2021,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,422019,2021,Pertussis
+Loei,0,0.00,0,0.00,0.00,638734,2021,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,717121,2021,Pertussis
+Nong Bua Lam Phu,1,0.20,0,0.00,0.00,509236,2021,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,517140,2021,Pertussis
+Sakon Nakhon,1,0.09,0,0.00,0.00,1146612,2021,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1567247,2021,Pertussis
+ZONE:09,0,0.00,0,0.00,0.00,6714997,2021,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1580495,2021,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1123595,2021,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2633681,2021,Pertussis
+Surin,0,0.00,0,0.00,0.00,1377226,2021,Pertussis
+ZONE:10,5,0.11,0,0.00,0.00,4587095,2021,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,376273,2021,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,351198,2021,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1458068,2021,Pertussis
+Ubon Ratchathani,5,0.27,0,0.00,0.00,1867608,2021,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,533948,2021,Pertussis
+ZONE:11,0,0.00,0,0.00,0.00,4487259,2021,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,509344,2021,Pertussis
+Krabi,0,0.00,0,0.00,0.00,478561,2021,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550033,2021,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,268123,2021,Pertussis
+Phuket,0,0.00,0,0.00,0.00,416629,2021,Pertussis
+Ranong,0,0.00,0,0.00,0.00,194473,2021,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1070096,2021,Pertussis
+ZONE:12,0,0.00,0,0.00,0.00,4992834,2021,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,807045,2021,Pertussis
+Pattani,0,0.00,0,0.00,0.00,727799,2021,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,522810,2021,Pertussis
+Satun,0,0.00,0,0.00,0.00,324467,2021,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1430073,2021,Pertussis
+Trang,0,0.00,0,0.00,0.00,640182,2021,Pertussis
+Yala,0,0.00,0,0.00,0.00,540458,2021,Pertussis
+ZONE:13,0,0.00,0,0.00,0.00,5558108,2021,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5558108,2021,Pertussis
+Total,74,0.11,0,0.00,0.00,65426907,2016,Pertussis
+ZONE:01,1,0.02,0,0.00,0.00,5781324,2016,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1703263,2016,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1242825,2016,Pertussis
+Lampang,1,0.13,0,0.00,0.00,752685,2016,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405927,2016,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,260971,2016,Pertussis
+Nan,0,0.00,0,0.00,0.00,478890,2016,Pertussis
+Phayao,0,0.00,0,0.00,0.00,483550,2016,Pertussis
+Phrae,0,0.00,0,0.00,0.00,453213,2016,Pertussis
+ZONE:02,1,0.03,0,0.00,0.00,3498728,2016,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,996397,2016,Pertussis
+Phitsanulok,1,0.12,0,0.00,0.00,861194,2016,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,602085,2016,Pertussis
+Tak,0,0.00,0,0.00,0.00,578968,2016,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,460084,2016,Pertussis
+ZONE:03,0,0.00,0,0.00,0.00,3011449,2016,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,331968,2016,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729839,2016,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1072349,2016,Pertussis
+Phichit,0,0.00,0,0.00,0.00,546750,2016,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,330543,2016,Pertussis
+ZONE:04,4,0.08,0,0.00,0.00,5221125,2016,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,283371,2016,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,758531,2016,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,257939,2016,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1183791,2016,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,805980,2016,Pertussis
+Pathum Thani,2,0.18,0,0.00,0.00,1084154,2016,Pertussis
+Saraburi,2,0.31,0,0.00,0.00,635567,2016,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,211792,2016,Pertussis
+ZONE:05,4,0.08,0,0.00,0.00,5209561,2016,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,865172,2016,Pertussis
+Nakhon Pathom,1,0.11,0,0.00,0.00,895207,2016,Pertussis
+Phetchaburi,3,0.63,0,0.00,0.00,476391,2016,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,529912,2016,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,860549,2016,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,538671,2016,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194283,2016,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,849376,2016,Pertussis
+ZONE:06,1,0.02,0,0.00,0.00,5880124,2016,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,698190,2016,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,529194,2016,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1438231,2016,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,480755,2016,Pertussis
+Rayong,0,0.00,0,0.00,0.00,681696,2016,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,554555,2016,Pertussis
+Samut Prakan,1,0.08,0,0.00,0.00,1270420,2016,Pertussis
+Trat,0,0.00,0,0.00,0.00,227083,2016,Pertussis
+ZONE:07,1,0.02,0,0.00,0.00,5049920,2016,Pertussis
+Kalasin,1,0.10,0,0.00,0.00,985055,2016,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1794032,2016,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,962592,2016,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1308241,2016,Pertussis
+ZONE:08,0,0.00,0,0.00,0.00,5511930,2016,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,419607,2016,Pertussis
+Loei,0,0.00,0,0.00,0.00,636666,2016,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,714369,2016,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,509469,2016,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,518420,2016,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1140673,2016,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1572726,2016,Pertussis
+ZONE:09,7,0.10,0,0.00,0.00,6737604,2016,Pertussis
+Buri Ram,3,0.19,0,0.00,0.00,1581955,2016,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1137651,2016,Pertussis
+Nakhon Ratchasima,4,0.15,0,0.00,0.00,2624668,2016,Pertussis
+Surin,0,0.00,0,0.00,0.00,1393330,2016,Pertussis
+ZONE:10,3,0.07,0,0.00,0.00,4581192,2016,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,375881,2016,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,347059,2016,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1467006,2016,Pertussis
+Ubon Ratchathani,3,0.16,0,0.00,0.00,1851049,2016,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,540197,2016,Pertussis
+ZONE:11,2,0.05,0,0.00,0.00,4383957,2016,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,503203,2016,Pertussis
+Krabi,0,0.00,0,0.00,0.00,459456,2016,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1550278,2016,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,262721,2016,Pertussis
+Phuket,1,0.26,0,0.00,0.00,382485,2016,Pertussis
+Ranong,0,0.00,0,0.00,0.00,182313,2016,Pertussis
+Surat Thani,1,0.10,0,0.00,0.00,1043501,2016,Pertussis
+ZONE:12,40,0.82,0,0.00,0.00,4865646,2016,Pertussis
+Narathiwat,2,0.26,0,0.00,0.00,778941,2016,Pertussis
+Pattani,1,0.14,0,0.00,0.00,690104,2016,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,521570,2016,Pertussis
+Satun,1,0.32,0,0.00,0.00,314297,2016,Pertussis
+Songkhla,1,0.07,0,0.00,0.00,1405939,2016,Pertussis
+Trang,0,0.00,0,0.00,0.00,639770,2016,Pertussis
+Yala,35,6.80,0,0.00,0.00,515025,2016,Pertussis
+ZONE:13,10,0.18,0,0.00,0.00,5694347,2016,Pertussis
+Bangkok,10,0.18,0,0.00,0.00,5694347,2016,Pertussis
+Total,6,0.01,0,0.00,0.00,63701703,2010,Pertussis
+Central Region,1,0.00,0,0.00,0.00,21534318,2010,Pertussis
+Zone:0,0,0.00,0,0.00,0.00,5701995,2010,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5701995,2010,Pertussis
+Zone:1,0,0.00,0,0.00,0.00,3454591,2010,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1089908,2010,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,778627,2010,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,971010,2010,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,615046,2010,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,1590200,2010,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284889,2010,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,335177,2010,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,755153,2010,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,214981,2010,Pertussis
+Zone:3,0,0.00,0,0.00,0.00,3105799,2010,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,671458,2010,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,252209,2010,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,464213,2010,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,543276,2010,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1174643,2010,Pertussis
+Zone:4,0,0.00,0,0.00,0.00,3374810,2010,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,836600,2010,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,855837,2010,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,837153,2010,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,845220,2010,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1651335,2010,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,462636,2010,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,506599,2010,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,488247,2010,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,193853,2010,Pertussis
+Zone:9,1,0.04,0,0.00,0.00,2655588,2010,Pertussis
+Chanthaburi,1,0.19,0,0.00,0.00,512932,2010,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1302942,2010,Pertussis
+Rayong,0,0.00,0,0.00,0.00,619249,2010,Pertussis
+Trat,0,0.00,0,0.00,0.00,220465,2010,Pertussis
+South Region,2,0.02,0,0.00,0.00,8853473,2010,Pertussis
+Zone:6,1,0.03,0,0.00,0.00,3514344,2010,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,488855,2010,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1519531,2010,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,508656,2010,Pertussis
+Surat Thani,1,0.10,0,0.00,0.00,997302,2010,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1825591,2010,Pertussis
+Krabi,0,0.00,0,0.00,0.00,429631,2010,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,252385,2010,Pertussis
+Phuket,0,0.00,0,0.00,0.00,340490,2010,Pertussis
+Ranong,0,0.00,0,0.00,0.00,182417,2010,Pertussis
+Trang,0,0.00,0,0.00,0.00,620668,2010,Pertussis
+Zone:8,1,0.03,0,0.00,0.00,3513538,2010,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,732617,2010,Pertussis
+Pattani,0,0.00,0,0.00,0.00,651442,2010,Pertussis
+Satun,0,0.00,0,0.00,0.00,295133,2010,Pertussis
+Songkhla,0,0.00,0,0.00,0.00,1350489,2010,Pertussis
+Yala,1,0.21,0,0.00,0.00,483857,2010,Pertussis
+North-Eastern Region,0,0.00,0,0.00,0.00,21534582,2010,Pertussis
+Zone:10,0,0.00,0,0.00,0.00,3576272,2010,Pertussis
+Loei,0,0.00,0,0.00,0.00,622424,2010,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,501891,2010,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,910094,2010,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1541863,2010,Pertussis
+Zone:11,0,0.00,0,0.00,0.00,2161531,2010,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,338812,2010,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,702041,2010,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1120678,2010,Pertussis
+Zone:12,0,0.00,0,0.00,0.00,4995226,2010,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,981369,2010,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1764922,2010,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,940001,2010,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1308934,2010,Pertussis
+Zone:13,0,0.00,0,0.00,0.00,4168498,2010,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,371471,2010,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1449409,2010,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1808422,2010,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,539196,2010,Pertussis
+Zone:14,0,0.00,0,0.00,0.00,6633055,2010,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1550275,2010,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1126295,2010,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2576691,2010,Pertussis
+Surin,0,0.00,0,0.00,0.00,1379794,2010,Pertussis
+North Region,3,0.03,0,0.00,0.00,11779330,2010,Pertussis
+Zone:15,2,0.07,0,0.00,0.00,3046660,2010,Pertussis
+Chiang Mai,2,0.12,0,0.00,0.00,1636514,2010,Pertussis
+Lampang,0,0.00,0,0.00,0.00,763224,2010,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,404627,2010,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,242295,2010,Pertussis
+Zone:16,0,0.00,0,0.00,0.00,2620701,2010,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1196576,2010,Pertussis
+Nan,0,0.00,0,0.00,0.00,475989,2010,Pertussis
+Phayao,0,0.00,0,0.00,0.00,486713,2010,Pertussis
+Phrae,0,0.00,0,0.00,0.00,461423,2010,Pertussis
+Zone:17,0,0.00,0,0.00,0.00,3430959,2010,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,995578,2010,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,847627,2010,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,602296,2010,Pertussis
+Tak,0,0.00,0,0.00,0.00,522673,2010,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,462785,2010,Pertussis
+Zone:18,1,0.04,0,0.00,0.00,2681010,2010,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726970,2010,Pertussis
+Nakhon Sawan,1,0.09,0,0.00,0.00,1073182,2010,Pertussis
+Phichit,0,0.00,0,0.00,0.00,552942,2010,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,327916,2010,Pertussis
+Total,21,0.03,0,0.00,0.00,62526710,2004,Pertussis
+North Region,4,0.03,0,0.00,0.00,11965439,2004,Pertussis
+Zone:1,2,0.03,0,0.00,0.00,5720315,2004,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1616995,2004,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1214659,2004,Pertussis
+Lampang,0,0.00,0,0.00,0.00,788071,2004,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,406911,2004,Pertussis
+Mae Hong Son,2,0.83,0,0.00,0.00,240988,2004,Pertussis
+Nan,0,0.00,0,0.00,0.00,479968,2004,Pertussis
+Phayao,0,0.00,0,0.00,0.00,494926,2004,Pertussis
+Phrae,0,0.00,0,0.00,0.00,477797,2004,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,3480797,2004,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,1026733,2004,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,854440,2004,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,616536,2004,Pertussis
+Tak,0,0.00,0,0.00,0.00,507296,2004,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,475792,2004,Pertussis
+Zone:3,2,0.07,0,0.00,0.00,2764327,2004,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,750331,2004,Pertussis
+Nakhon Sawan,2,0.18,0,0.00,0.00,1102099,2004,Pertussis
+Phichit,0,0.00,0,0.00,0.00,579155,2004,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,332742,2004,Pertussis
+Central Region,2,0.01,0,0.00,0.00,20631429,2004,Pertussis
+Bangkok,0,0.00,0,0.00,0.00,5739370,2004,Pertussis
+Zone:4,0,0.00,0,0.00,0.00,2721016,2004,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,286896,2004,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,933591,2004,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,745828,2004,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,754701,2004,Pertussis
+Zone:5,0,0.00,0,0.00,0.00,1936502,2004,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,345355,2004,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,759000,2004,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,610722,2004,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,221425,2004,Pertussis
+Zone:6,0,0.00,0,0.00,0.00,3287786,2004,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,803802,2004,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,805210,2004,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,824406,2004,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,854368,2004,Pertussis
+Zone:7,0,0.00,0,0.00,0.00,1587519,2004,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,456384,2004,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,486084,2004,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,445443,2004,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,199608,2004,Pertussis
+Zone:8,1,0.03,0,0.00,0.00,2934598,2004,Pertussis
+Chachoengsao,1,0.15,0,0.00,0.00,647967,2004,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,250235,2004,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,449940,2004,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,538823,2004,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1047633,2004,Pertussis
+Zone:9,1,0.04,0,0.00,0.00,2424638,2004,Pertussis
+Chanthaburi,1,0.20,0,0.00,0.00,502794,2004,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1150048,2004,Pertussis
+Rayong,0,0.00,0,0.00,0.00,550310,2004,Pertussis
+Trat,0,0.00,0,0.00,0.00,221486,2004,Pertussis
+North-Eastern Region,10,0.05,0,0.00,0.00,21463567,2004,Pertussis
+Zone:10,0,0.00,0,0.00,0.00,3549364,2004,Pertussis
+Loei,0,0.00,0,0.00,0.00,617280,2004,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,497298,2004,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,904499,2004,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1530287,2004,Pertussis
+Zone:11,5,0.16,0,0.00,0.00,3127236,2004,Pertussis
+Kalasin,3,0.31,0,0.00,0.00,982947,2004,Pertussis
+Mukdahan,1,0.30,0,0.00,0.00,335819,2004,Pertussis
+Nakhon Phanom,1,0.14,0,0.00,0.00,700800,2004,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1107670,2004,Pertussis
+Zone:12,3,0.07,0,0.00,0.00,4012215,2004,Pertussis
+Khon Kaen,2,0.11,0,0.00,0.00,1756177,2004,Pertussis
+Maha Sarakham,1,0.11,0,0.00,0.00,939718,2004,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1316320,2004,Pertussis
+Zone:13,2,0.03,0,0.00,0.00,6621384,2004,Pertussis
+Buri Ram,2,0.13,0,0.00,0.00,1539135,2004,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1128031,2004,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2565197,2004,Pertussis
+Surin,0,0.00,0,0.00,0.00,1389021,2004,Pertussis
+Zone:14,0,0.00,0,0.00,0.00,4153368,2004,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,369071,2004,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1452971,2004,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1784192,2004,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,547134,2004,Pertussis
+South Region,5,0.06,0,0.00,0.00,8466275,2004,Pertussis
+Zone:15,1,0.06,0,0.00,0.00,1581379,2004,Pertussis
+Chumphon,1,0.21,0,0.00,0.00,474592,2004,Pertussis
+Ranong,0,0.00,0,0.00,0.00,169904,2004,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,936883,2004,Pertussis
+Zone:16,1,0.04,0,0.00,0.00,2619221,2004,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1515708,2004,Pertussis
+Phatthalung,1,0.20,0,0.00,0.00,501447,2004,Pertussis
+Trang,0,0.00,0,0.00,0.00,602066,2004,Pertussis
+Zone:17,0,0.00,0,0.00,0.00,908170,2004,Pertussis
+Krabi,0,0.00,0,0.00,0.00,386084,2004,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,239895,2004,Pertussis
+Phuket,0,0.00,0,0.00,0.00,282191,2004,Pertussis
+Zone:18,1,0.06,0,0.00,0.00,1795905,2004,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,701008,2004,Pertussis
+Pattani,1,0.16,0,0.00,0.00,632240,2004,Pertussis
+Yala,0,0.00,0,0.00,0.00,462657,2004,Pertussis
+Zone:19,2,0.13,0,0.00,0.00,1561600,2004,Pertussis
+Satun,0,0.00,0,0.00,0.00,273624,2004,Pertussis
+Songkhla,2,0.16,0,0.00,0.00,1287976,2004,Pertussis
+Total,25,0.04,0,0.00,0.00,63457439,2009,Pertussis
+Central Region,6,0.03,0,0.00,0.00,21386001,2009,Pertussis
+Bangkok,2,0.04,0,0.00,0.00,5706739,2009,Pertussis
+Zone:1,2,0.06,0,0.00,0.00,3397461,2009,Pertussis
+Nonthaburi,1,0.09,0,0.00,0.00,1065332,2009,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,772142,2009,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,942813,2009,Pertussis
+Saraburi,1,0.16,0,0.00,0.00,617174,2009,Pertussis
+Zone:2,0,0.00,0,0.00,0.00,1590058,2009,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,284819,2009,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,335686,2009,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,754127,2009,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,215426,2009,Pertussis
+Zone:3,1,0.03,0,0.00,0.00,3076347,2009,Pertussis
+Chachoengsao,1,0.15,0,0.00,0.00,666907,2009,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,251219,2009,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,460617,2009,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,541939,2009,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1155665,2009,Pertussis
+Zone:4,0,0.00,0,0.00,0.00,3364769,2009,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,837165,2009,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,847513,2009,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,835546,2009,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,844545,2009,Pertussis
+Zone:5,1,0.06,0,0.00,0.00,1637557,2009,Pertussis
+Phetchaburi,1,0.22,0,0.00,0.00,460108,2009,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,502221,2009,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,481377,2009,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,193851,2009,Pertussis
+Zone:9,0,0.00,0,0.00,0.00,2613070,2009,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,509633,2009,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1277139,2009,Pertussis
+Rayong,0,0.00,0,0.00,0.00,605380,2009,Pertussis
+Trat,0,0.00,0,0.00,0.00,220918,2009,Pertussis
+South Region,7,0.08,0,0.00,0.00,8777720,2009,Pertussis
+Zone:6,1,0.03,0,0.00,0.00,3496373,2009,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,486233,2009,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1514832,2009,Pertussis
+Phatthalung,1,0.20,0,0.00,0.00,506454,2009,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,988854,2009,Pertussis
+Zone:7,1,0.06,0,0.00,0.00,1803902,2009,Pertussis
+Krabi,1,0.24,0,0.00,0.00,422631,2009,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,250796,2009,Pertussis
+Phuket,0,0.00,0,0.00,0.00,331460,2009,Pertussis
+Ranong,0,0.00,0,0.00,0.00,182242,2009,Pertussis
+Trang,0,0.00,0,0.00,0.00,616773,2009,Pertussis
+Zone:8,5,0.14,0,0.00,0.00,3477445,2009,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,724001,2009,Pertussis
+Pattani,3,0.47,0,0.00,0.00,644897,2009,Pertussis
+Satun,0,0.00,0,0.00,0.00,290755,2009,Pertussis
+Songkhla,1,0.07,0,0.00,0.00,1339861,2009,Pertussis
+Yala,1,0.21,0,0.00,0.00,477931,2009,Pertussis
+North-Eastern Region,5,0.02,0,0.00,0.00,21469269,2009,Pertussis
+Zone:10,1,0.03,0,0.00,0.00,3564168,2009,Pertussis
+Loei,0,0.00,0,0.00,0.00,619602,2009,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,500217,2009,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,907064,2009,Pertussis
+Udon Thani,1,0.07,0,0.00,0.00,1537285,2009,Pertussis
+Zone:11,1,0.05,0,0.00,0.00,2155042,2009,Pertussis
+Mukdahan,1,0.30,0,0.00,0.00,337773,2009,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,700027,2009,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1117242,2009,Pertussis
+Zone:12,0,0.00,0,0.00,0.00,4984201,2009,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,979371,2009,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1759172,2009,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,937972,2009,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1307686,2009,Pertussis
+Zone:13,0,0.00,0,0.00,0.00,4152834,2009,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,370141,2009,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1443879,2009,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1799604,2009,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,539210,2009,Pertussis
+Zone:14,3,0.05,0,0.00,0.00,6613024,2009,Pertussis
+Buri Ram,2,0.13,0,0.00,0.00,1544218,2009,Pertussis
+Chaiyaphum,1,0.09,0,0.00,0.00,1123907,2009,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2568205,2009,Pertussis
+Surin,0,0.00,0,0.00,0.00,1376694,2009,Pertussis
+North Region,7,0.06,0,0.00,0.00,11824449,2009,Pertussis
+Zone:15,0,0.00,0,0.00,0.00,3069670,2009,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1651433,2009,Pertussis
+Lampang,0,0.00,0,0.00,0.00,766057,2009,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,404910,2009,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,247270,2009,Pertussis
+Zone:16,2,0.08,0,0.00,0.00,2636963,2009,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1211126,2009,Pertussis
+Nan,2,0.42,0,0.00,0.00,475799,2009,Pertussis
+Phayao,0,0.00,0,0.00,0.00,487254,2009,Pertussis
+Phrae,0,0.00,0,0.00,0.00,462784,2009,Pertussis
+Zone:17,5,0.15,0,0.00,0.00,3436350,2009,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,995679,2009,Pertussis
+Phitsanulok,1,0.12,0,0.00,0.00,844779,2009,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,603316,2009,Pertussis
+Tak,1,0.19,0,0.00,0.00,528997,2009,Pertussis
+Uttaradit,3,0.65,0,0.00,0.00,463579,2009,Pertussis
+Zone:18,0,0.00,0,0.00,0.00,2681466,2009,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726530,2009,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1073554,2009,Pertussis
+Phichit,0,0.00,0,0.00,0.00,553653,2009,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,327729,2009,Pertussis
+Total,174,0.26,3,1.72,0.00,66301242,2018,Pertussis
+ZONE:01,26,0.44,1,3.85,0.02,5878537,2018,Pertussis
+Chiang Mai,15,0.85,0,0.00,0.00,1755291,2018,Pertussis
+Chiang Rai,1,0.08,0,0.00,0.00,1289873,2018,Pertussis
+Lampang,0,0.00,0,0.00,0.00,744714,2018,Pertussis
+Lamphun,5,1.23,1,20.00,0.25,405936,2018,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,280826,2018,Pertussis
+Nan,4,0.83,0,0.00,0.00,479414,2018,Pertussis
+Phayao,0,0.00,0,0.00,0.00,476157,2018,Pertussis
+Phrae,1,0.22,0,0.00,0.00,446326,2018,Pertussis
+ZONE:02,4,0.11,1,25.00,0.03,3565071,2018,Pertussis
+Phetchabun,1,0.10,0,0.00,0.00,994936,2018,Pertussis
+Phitsanulok,1,0.12,0,0.00,0.00,866129,2018,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,598287,2018,Pertussis
+Tak,0,0.00,0,0.00,0.00,649472,2018,Pertussis
+Uttaradit,2,0.44,1,50.00,0.22,456247,2018,Pertussis
+ZONE:03,7,0.23,0,0.00,0.00,2992420,2018,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,328993,2018,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,728470,2018,Pertussis
+Nakhon Sawan,4,0.38,0,0.00,0.00,1064649,2018,Pertussis
+Phichit,0,0.00,0,0.00,0.00,540620,2018,Pertussis
+Uthai Thani,3,0.91,0,0.00,0.00,329688,2018,Pertussis
+ZONE:04,4,0.07,0,0.00,0.00,5343264,2018,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,281014,2018,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,758003,2018,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,259718,2018,Pertussis
+Nonthaburi,2,0.16,0,0.00,0.00,1238015,2018,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,815647,2018,Pertussis
+Pathum Thani,1,0.09,0,0.00,0.00,1137603,2018,Pertussis
+Saraburi,1,0.16,0,0.00,0.00,643531,2018,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,209733,2018,Pertussis
+ZONE:05,8,0.15,0,0.00,0.00,5324608,2018,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,890565,2018,Pertussis
+Nakhon Pathom,6,0.66,0,0.00,0.00,914273,2018,Pertussis
+Phetchaburi,1,0.21,0,0.00,0.00,483335,2018,Pertussis
+Prachuap Khiri Khan,1,0.18,0,0.00,0.00,546396,2018,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,872615,2018,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,573215,2018,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,193847,2018,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,850362,2018,Pertussis
+ZONE:06,4,0.07,0,0.00,0.00,6088563,2018,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,712449,2018,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,535478,2018,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1522285,2018,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,489592,2018,Pertussis
+Rayong,1,0.14,0,0.00,0.00,717276,2018,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,563014,2018,Pertussis
+Samut Prakan,3,0.23,0,0.00,0.00,1318687,2018,Pertussis
+Trat,0,0.00,0,0.00,0.00,229782,2018,Pertussis
+ZONE:07,6,0.12,0,0.00,0.00,5062199,2018,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,985676,2018,Pertussis
+Khon Kaen,6,0.33,0,0.00,0.00,1805903,2018,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,963060,2018,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1307560,2018,Pertussis
+ZONE:08,2,0.04,0,0.00,0.00,5553738,2018,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,423485,2018,Pertussis
+Loei,0,0.00,0,0.00,0.00,642220,2018,Pertussis
+Nakhon Phanom,1,0.14,0,0.00,0.00,718406,2018,Pertussis
+Nong Bua Lam Phu,1,0.20,0,0.00,0.00,511878,2018,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,521995,2018,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150876,2018,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1584878,2018,Pertussis
+ZONE:09,6,0.09,0,0.00,0.00,6772779,2018,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1593378,2018,Pertussis
+Chaiyaphum,1,0.09,0,0.00,0.00,1139067,2018,Pertussis
+Nakhon Ratchasima,4,0.15,0,0.00,0.00,2642815,2018,Pertussis
+Surin,1,0.07,0,0.00,0.00,1397519,2018,Pertussis
+ZONE:10,53,1.15,0,0.00,0.00,4613643,2018,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,378363,2018,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,351532,2018,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1472521,2018,Pertussis
+Ubon Ratchathani,53,2.83,0,0.00,0.00,1872091,2018,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,539136,2018,Pertussis
+ZONE:11,5,0.11,1,20.00,0.02,4466673,2018,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,510307,2018,Pertussis
+Krabi,0,0.00,0,0.00,0.00,471754,2018,Pertussis
+Nakhon Si Thammarat,2,0.13,1,50.00,0.06,1558958,2018,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,267866,2018,Pertussis
+Phuket,2,0.49,0,0.00,0.00,406113,2018,Pertussis
+Ranong,0,0.00,0,0.00,0.00,191134,2018,Pertussis
+Surat Thani,1,0.09,0,0.00,0.00,1060541,2018,Pertussis
+ZONE:12,36,0.73,0,0.00,0.00,4960215,2018,Pertussis
+Narathiwat,8,1.00,0,0.00,0.00,799357,2018,Pertussis
+Pattani,4,0.56,0,0.00,0.00,713937,2018,Pertussis
+Phatthalung,3,0.57,0,0.00,0.00,524951,2018,Pertussis
+Satun,0,0.00,0,0.00,0.00,320637,2018,Pertussis
+Songkhla,9,0.63,0,0.00,0.00,1428429,2018,Pertussis
+Trang,0,0.00,0,0.00,0.00,643093,2018,Pertussis
+Yala,12,2.26,0,0.00,0.00,529811,2018,Pertussis
+ZONE:13,13,0.23,0,0.00,0.00,5679532,2018,Pertussis
+Bangkok,13,0.23,0,0.00,0.00,5679532,2018,Pertussis
+Total,83,0.12,1,1.20,0.00,66486458,2019,Pertussis
+ZONE:01,1,0.02,0,0.00,0.00,5891985,2019,Pertussis
+Chiang Mai,1,0.06,0,0.00,0.00,1771499,2019,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1295217,2019,Pertussis
+Lampang,0,0.00,0,0.00,0.00,740600,2019,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405515,2019,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,283352,2019,Pertussis
+Nan,0,0.00,0,0.00,0.00,478608,2019,Pertussis
+Phayao,0,0.00,0,0.00,0.00,473786,2019,Pertussis
+Phrae,0,0.00,0,0.00,0.00,443408,2019,Pertussis
+ZONE:02,7,0.20,0,0.00,0.00,3570128,2019,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,993496,2019,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,866068,2019,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,596165,2019,Pertussis
+Tak,7,1.06,0,0.00,0.00,660147,2019,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,454252,2019,Pertussis
+ZONE:03,0,0.00,0,0.00,0.00,2983068,2019,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,327437,2019,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,726836,2019,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1061926,2019,Pertussis
+Phichit,0,0.00,0,0.00,0.00,537843,2019,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,329026,2019,Pertussis
+ZONE:04,2,0.04,0,0.00,0.00,5381695,2019,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,280246,2019,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,757145,2019,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260421,2019,Pertussis
+Nonthaburi,2,0.16,0,0.00,0.00,1255840,2019,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,818815,2019,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1154848,2019,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,645468,2019,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,208912,2019,Pertussis
+ZONE:05,5,0.09,0,0.00,0.00,5344807,2019,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,894338,2019,Pertussis
+Nakhon Pathom,5,0.54,0,0.00,0.00,918542,2019,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,484743,2019,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,551466,2019,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,873310,2019,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,581334,2019,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,193548,2019,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,847526,2019,Pertussis
+ZONE:06,2,0.03,0,0.00,0.00,6154601,2019,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,717561,2019,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,537097,2019,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1546873,2019,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,493159,2019,Pertussis
+Rayong,0,0.00,0,0.00,0.00,729035,2019,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,565198,2019,Pertussis
+Samut Prakan,2,0.15,0,0.00,0.00,1335742,2019,Pertussis
+Trat,0,0.00,0,0.00,0.00,229936,2019,Pertussis
+ZONE:07,6,0.12,0,0.00,0.00,5057831,2019,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,984381,2019,Pertussis
+Khon Kaen,3,0.17,0,0.00,0.00,1804384,2019,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,962856,2019,Pertussis
+Roi Et,3,0.23,0,0.00,0.00,1306210,2019,Pertussis
+ZONE:08,0,0.00,0,0.00,0.00,5559986,2019,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,424016,2019,Pertussis
+Loei,0,0.00,0,0.00,0.00,642862,2019,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,718961,2019,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,512449,2019,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,522207,2019,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1152835,2019,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1586656,2019,Pertussis
+ZONE:09,12,0.18,1,8.33,0.01,6778372,2019,Pertussis
+Buri Ram,6,0.38,1,16.67,0.06,1595299,2019,Pertussis
+Chaiyaphum,3,0.26,0,0.00,0.00,1138067,2019,Pertussis
+Nakhon Ratchasima,3,0.11,0,0.00,0.00,2647663,2019,Pertussis
+Surin,0,0.00,0,0.00,0.00,1397343,2019,Pertussis
+ZONE:10,14,0.30,0,0.00,0.00,4618551,2019,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,378530,2019,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,352727,2019,Pertussis
+Si Sa Ket,1,0.07,0,0.00,0.00,1472934,2019,Pertussis
+Ubon Ratchathani,13,0.69,0,0.00,0.00,1876347,2019,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,538013,2019,Pertussis
+ZONE:11,2,0.04,0,0.00,0.00,4487837,2019,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,511134,2019,Pertussis
+Krabi,0,0.00,0,0.00,0.00,475239,2019,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1561179,2019,Pertussis
+Phangnga,2,0.74,0,0.00,0.00,268513,2019,Pertussis
+Phuket,0,0.00,0,0.00,0.00,413397,2019,Pertussis
+Ranong,0,0.00,0,0.00,0.00,192619,2019,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1065756,2019,Pertussis
+ZONE:12,27,0.54,0,0.00,0.00,4986140,2019,Pertussis
+Narathiwat,6,0.75,0,0.00,0.00,805248,2019,Pertussis
+Pattani,2,0.28,0,0.00,0.00,721591,2019,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,524955,2019,Pertussis
+Satun,0,0.00,0,0.00,0.00,322580,2019,Pertussis
+Songkhla,3,0.21,0,0.00,0.00,1434298,2019,Pertussis
+Trang,0,0.00,0,0.00,0.00,643140,2019,Pertussis
+Yala,16,2.99,0,0.00,0.00,534328,2019,Pertussis
+ZONE:13,5,0.09,0,0.00,0.00,5671457,2019,Pertussis
+Bangkok,5,0.09,0,0.00,0.00,5671457,2019,Pertussis
+Total,398,0.60,4,1.01,0.01,66130957,2023,Pertussis
+ZONE:01,3,0.05,0,0.00,0.00,5869190,2023,Pertussis
+Chiang Mai,2,0.11,0,0.00,0.00,1790929,2023,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1299030,2023,Pertussis
+Lampang,0,0.00,0,0.00,0.00,721734,2023,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,400348,2023,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,286350,2023,Pertussis
+Nan,0,0.00,0,0.00,0.00,475207,2023,Pertussis
+Phayao,0,0.00,0,0.00,0.00,462968,2023,Pertussis
+Phrae,1,0.23,0,0.00,0.00,432624,2023,Pertussis
+ZONE:02,0,0.00,0,0.00,0.00,3530228,2023,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,975879,2023,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,845938,2023,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,583502,2023,Pertussis
+Tak,0,0.00,0,0.00,0.00,680361,2023,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,444548,2023,Pertussis
+ZONE:03,1,0.03,0,0.00,0.00,2913905,2023,Pertussis
+Chai Nat,1,0.31,0,0.00,0.00,319370,2023,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,710458,2023,Pertussis
+Nakhon Sawan,0,0.00,0,0.00,0.00,1031921,2023,Pertussis
+Phichit,0,0.00,0,0.00,0.00,527669,2023,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,324487,2023,Pertussis
+ZONE:04,3,0.06,0,0.00,0.00,5424945,2023,Pertussis
+Ang Thong,1,0.37,0,0.00,0.00,273675,2023,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,737382,2023,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260419,2023,Pertussis
+Nonthaburi,2,0.15,0,0.00,0.00,1292276,2023,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,820464,2023,Pertussis
+Pathum Thani,0,0.00,0,0.00,0.00,1195796,2023,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,641272,2023,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,203661,2023,Pertussis
+ZONE:05,0,0.00,0,0.00,0.00,5330665,2023,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,894168,2023,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,922026,2023,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,482912,2023,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,553234,2023,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,867043,2023,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,588108,2023,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,190147,2023,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,833027,2023,Pertussis
+ZONE:06,2,0.03,0,0.00,0.00,6251747,2023,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,725433,2023,Pertussis
+Chanthaburi,1,0.19,0,0.00,0.00,536351,2023,Pertussis
+Chon Buri,1,0.06,0,0.00,0.00,1589214,2023,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,496551,2023,Pertussis
+Rayong,0,0.00,0,0.00,0.00,755364,2023,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,562404,2023,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1358338,2023,Pertussis
+Trat,0,0.00,0,0.00,0.00,228092,2023,Pertussis
+ZONE:07,0,0.00,0,0.00,0.00,5001616,2023,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,973835,2023,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1787752,2023,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,946457,2023,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1293572,2023,Pertussis
+ZONE:08,0,0.00,0,0.00,0.00,5512222,2023,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,421840,2023,Pertussis
+Loei,0,0.00,0,0.00,0.00,638037,2023,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,716844,2023,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508664,2023,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,516320,2023,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1145737,2023,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1564780,2023,Pertussis
+ZONE:09,1,0.01,0,0.00,0.00,6705133,2023,Pertussis
+Buri Ram,1,0.06,0,0.00,0.00,1578361,2023,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1120095,2023,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2632106,2023,Pertussis
+Surin,0,0.00,0,0.00,0.00,1374571,2023,Pertussis
+ZONE:10,0,0.00,0,0.00,0.00,4585207,2023,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,375866,2023,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,351537,2023,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1456144,2023,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1869163,2023,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,532497,2023,Pertussis
+ZONE:11,0,0.00,0,0.00,0.00,4489916,2023,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,509433,2023,Pertussis
+Krabi,0,0.00,0,0.00,0.00,479705,2023,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1547246,2023,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,267729,2023,Pertussis
+Phuket,0,0.00,0,0.00,0.00,418339,2023,Pertussis
+Ranong,0,0.00,0,0.00,0.00,194400,2023,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1073064,2023,Pertussis
+ZONE:12,380,7.59,4,1.05,0.08,5004720,2023,Pertussis
+Narathiwat,78,9.61,1,1.28,0.12,811891,2023,Pertussis
+Pattani,221,30.22,2,0.90,0.27,731269,2023,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,522080,2023,Pertussis
+Satun,0,0.00,0,0.00,0.00,325069,2023,Pertussis
+Songkhla,5,0.35,0,0.00,0.00,1431300,2023,Pertussis
+Trang,3,0.47,0,0.00,0.00,638997,2023,Pertussis
+Yala,73,13.42,1,1.37,0.18,544114,2023,Pertussis
+ZONE:13,8,0.15,0,0.00,0.00,5511463,2023,Pertussis
+Bangkok,8,0.15,0,0.00,0.00,5511463,2023,Pertussis
+Total,16,0.02,0,0.00,0.00,64955313,2014,Pertussis
+ZONE:00,5,0.09,0,0.00,0.00,5689268,2014,Pertussis
+Bangkok,5,0.09,0,0.00,0.00,5689268,2014,Pertussis
+ZONE:01,1,0.02,0,0.00,0.00,5704200,2014,Pertussis
+Chiang Mai,1,0.06,0,0.00,0.00,1672586,2014,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1206180,2014,Pertussis
+Lampang,0,0.00,0,0.00,0.00,753937,2014,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,405368,2014,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,247364,2014,Pertussis
+Nan,0,0.00,0,0.00,0.00,478088,2014,Pertussis
+Phayao,0,0.00,0,0.00,0.00,485599,2014,Pertussis
+Phrae,0,0.00,0,0.00,0.00,455078,2014,Pertussis
+ZONE:02,0,0.00,0,0.00,0.00,3452021,2014,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,995102,2014,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,857682,2014,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,602586,2014,Pertussis
+Tak,0,0.00,0,0.00,0.00,535953,2014,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,460698,2014,Pertussis
+ZONE:03,1,0.03,0,0.00,0.00,3012608,2014,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,332526,2014,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,729076,2014,Pertussis
+Nakhon Sawan,1,0.09,0,0.00,0.00,1072949,2014,Pertussis
+Phichit,0,0.00,0,0.00,0.00,548199,2014,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,329858,2014,Pertussis
+ZONE:04,2,0.04,0,0.00,0.00,5171756,2014,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,283650,2014,Pertussis
+Lop Buri,1,0.13,0,0.00,0.00,758188,2014,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,256693,2014,Pertussis
+Nonthaburi,0,0.00,0,0.00,0.00,1165070,2014,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,800785,2014,Pertussis
+Pathum Thani,1,0.09,0,0.00,0.00,1063608,2014,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,631338,2014,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,212424,2014,Pertussis
+ZONE:05,3,0.06,0,0.00,0.00,5147569,2014,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,845540,2014,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,886627,2014,Pertussis
+Phetchaburi,1,0.21,0,0.00,0.00,472640,2014,Pertussis
+Prachuap Khiri Khan,2,0.38,0,0.00,0.00,522689,2014,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,851689,2014,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,525672,2014,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,194153,2014,Pertussis
+Suphan Buri,0,0.00,0,0.00,0.00,848559,2014,Pertussis
+ZONE:06,0,0.00,0,0.00,0.00,5797595,2014,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,692852,2014,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,525805,2014,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1405889,2014,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,477741,2014,Pertussis
+Rayong,0,0.00,0,0.00,0.00,667806,2014,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,551562,2014,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1251570,2014,Pertussis
+Trat,0,0.00,0,0.00,0.00,224370,2014,Pertussis
+ZONE:07,1,0.02,0,0.00,0.00,5037074,2014,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,984468,2014,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1785852,2014,Pertussis
+Maha Sarakham,1,0.10,0,0.00,0.00,958116,2014,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1308638,2014,Pertussis
+ZONE:08,0,0.00,0,0.00,0.00,5490561,2014,Pertussis
+Bungkan,0,0.00,0,0.00,0.00,417401,2014,Pertussis
+Loei,0,0.00,0,0.00,0.00,633359,2014,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,712101,2014,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,508001,2014,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,516101,2014,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1136466,2014,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1567132,2014,Pertussis
+ZONE:09,0,0.00,0,0.00,0.00,6717984,2014,Pertussis
+Buri Ram,0,0.00,0,0.00,0.00,1576343,2014,Pertussis
+Chaiyaphum,0,0.00,0,0.00,0.00,1136386,2014,Pertussis
+Nakhon Ratchasima,0,0.00,0,0.00,0.00,2615340,2014,Pertussis
+Surin,0,0.00,0,0.00,0.00,1389915,2014,Pertussis
+ZONE:10,1,0.02,0,0.00,0.00,4564711,2014,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,375039,2014,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,345159,2014,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1463620,2014,Pertussis
+Ubon Ratchathani,1,0.05,0,0.00,0.00,1840596,2014,Pertussis
+Yasothon,0,0.00,0,0.00,0.00,540297,2014,Pertussis
+ZONE:11,0,0.00,0,0.00,0.00,4344513,2014,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,499435,2014,Pertussis
+Krabi,0,0.00,0,0.00,0.00,453850,2014,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1544936,2014,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,260395,2014,Pertussis
+Phuket,0,0.00,0,0.00,0.00,373943,2014,Pertussis
+Ranong,0,0.00,0,0.00,0.00,175933,2014,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1036021,2014,Pertussis
+ZONE:12,2,0.04,0,0.00,0.00,4825453,2014,Pertussis
+Narathiwat,0,0.00,0,0.00,0.00,770472,2014,Pertussis
+Pattani,0,0.00,0,0.00,0.00,682512,2014,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,519220,2014,Pertussis
+Satun,0,0.00,0,0.00,0.00,311233,2014,Pertussis
+Songkhla,2,0.14,0,0.00,0.00,1395596,2014,Pertussis
+Trang,0,0.00,0,0.00,0.00,637395,2014,Pertussis
+Yala,0,0.00,0,0.00,0.00,509025,2014,Pertussis
+Total,22,0.03,0,0.00,0.00,66372831,2020,Pertussis
+ZONE:01,0,0.00,0,0.00,0.00,5886870,2020,Pertussis
+Chiang Mai,0,0.00,0,0.00,0.00,1781812,2020,Pertussis
+Chiang Rai,0,0.00,0,0.00,0.00,1296664,2020,Pertussis
+Lampang,0,0.00,0,0.00,0.00,733640,2020,Pertussis
+Lamphun,0,0.00,0,0.00,0.00,403542,2020,Pertussis
+Mae Hong Son,0,0.00,0,0.00,0.00,284343,2020,Pertussis
+Nan,0,0.00,0,0.00,0.00,477476,2020,Pertussis
+Phayao,0,0.00,0,0.00,0.00,469856,2020,Pertussis
+Phrae,0,0.00,0,0.00,0.00,439537,2020,Pertussis
+ZONE:02,4,0.11,0,0.00,0.00,3554902,2020,Pertussis
+Phetchabun,0,0.00,0,0.00,0.00,987196,2020,Pertussis
+Phitsanulok,0,0.00,0,0.00,0.00,857364,2020,Pertussis
+Sukhothai,0,0.00,0,0.00,0.00,591477,2020,Pertussis
+Tak,4,0.60,0,0.00,0.00,667942,2020,Pertussis
+Uttaradit,0,0.00,0,0.00,0.00,450923,2020,Pertussis
+ZONE:03,1,0.03,0,0.00,0.00,2956189,2020,Pertussis
+Chai Nat,0,0.00,0,0.00,0.00,324544,2020,Pertussis
+Kamphaeng Phet,0,0.00,0,0.00,0.00,719993,2020,Pertussis
+Nakhon Sawan,1,0.10,0,0.00,0.00,1050098,2020,Pertussis
+Phichit,0,0.00,0,0.00,0.00,534311,2020,Pertussis
+Uthai Thani,0,0.00,0,0.00,0.00,327243,2020,Pertussis
+ZONE:04,2,0.04,0,0.00,0.00,5400529,2020,Pertussis
+Ang Thong,0,0.00,0,0.00,0.00,278119,2020,Pertussis
+Lop Buri,0,0.00,0,0.00,0.00,749242,2020,Pertussis
+Nakhon Nayok,0,0.00,0,0.00,0.00,260416,2020,Pertussis
+Nonthaburi,1,0.08,0,0.00,0.00,1271065,2020,Pertussis
+P.Nakhon S.Ayutthaya,0,0.00,0,0.00,0.00,819638,2020,Pertussis
+Pathum Thani,1,0.09,0,0.00,0.00,1170008,2020,Pertussis
+Saraburi,0,0.00,0,0.00,0.00,644869,2020,Pertussis
+Sing Buri,0,0.00,0,0.00,0.00,207172,2020,Pertussis
+ZONE:05,1,0.02,0,0.00,0.00,5342038,2020,Pertussis
+Kanchanaburi,0,0.00,0,0.00,0.00,893751,2020,Pertussis
+Nakhon Pathom,0,0.00,0,0.00,0.00,920380,2020,Pertussis
+Phetchaburi,0,0.00,0,0.00,0.00,483692,2020,Pertussis
+Prachuap Khiri Khan,0,0.00,0,0.00,0.00,552398,2020,Pertussis
+Ratchaburi,0,0.00,0,0.00,0.00,871207,2020,Pertussis
+Samut Sakhon,0,0.00,0,0.00,0.00,585451,2020,Pertussis
+Samut Songkhram,0,0.00,0,0.00,0.00,192678,2020,Pertussis
+Suphan Buri,1,0.12,0,0.00,0.00,842481,2020,Pertussis
+ZONE:06,0,0.00,0,0.00,0.00,6192990,2020,Pertussis
+Chachoengsao,0,0.00,0,0.00,0.00,720416,2020,Pertussis
+Chanthaburi,0,0.00,0,0.00,0.00,536629,2020,Pertussis
+Chon Buri,0,0.00,0,0.00,0.00,1562593,2020,Pertussis
+Prachin Buri,0,0.00,0,0.00,0.00,494175,2020,Pertussis
+Rayong,0,0.00,0,0.00,0.00,738139,2020,Pertussis
+Sa Kaeo,0,0.00,0,0.00,0.00,563614,2020,Pertussis
+Samut Prakan,0,0.00,0,0.00,0.00,1348177,2020,Pertussis
+Trat,0,0.00,0,0.00,0.00,229247,2020,Pertussis
+ZONE:07,0,0.00,0,0.00,0.00,5039088,2020,Pertussis
+Kalasin,0,0.00,0,0.00,0.00,980297,2020,Pertussis
+Khon Kaen,0,0.00,0,0.00,0.00,1798702,2020,Pertussis
+Maha Sarakham,0,0.00,0,0.00,0.00,958163,2020,Pertussis
+Roi Et,0,0.00,0,0.00,0.00,1301926,2020,Pertussis
+ZONE:08,1,0.02,0,0.00,0.00,5540556,2020,Pertussis
+Bungkan,1,0.24,0,0.00,0.00,423067,2020,Pertussis
+Loei,0,0.00,0,0.00,0.00,640843,2020,Pertussis
+Nakhon Phanom,0,0.00,0,0.00,0.00,718169,2020,Pertussis
+Nong Bua Lam Phu,0,0.00,0,0.00,0.00,511125,2020,Pertussis
+Nong Khai,0,0.00,0,0.00,0.00,519873,2020,Pertussis
+Sakon Nakhon,0,0.00,0,0.00,0.00,1150164,2020,Pertussis
+Udon Thani,0,0.00,0,0.00,0.00,1577315,2020,Pertussis
+ZONE:09,4,0.06,0,0.00,0.00,6748199,2020,Pertussis
+Buri Ram,1,0.06,0,0.00,0.00,1588466,2020,Pertussis
+Chaiyaphum,1,0.09,0,0.00,0.00,1131140,2020,Pertussis
+Nakhon Ratchasima,1,0.04,0,0.00,0.00,2641067,2020,Pertussis
+Surin,1,0.07,0,0.00,0.00,1387526,2020,Pertussis
+ZONE:10,1,0.02,0,0.00,0.00,4603401,2020,Pertussis
+Amnat Charoen,0,0.00,0,0.00,0.00,377317,2020,Pertussis
+Mukdahan,0,0.00,0,0.00,0.00,352043,2020,Pertussis
+Si Sa Ket,0,0.00,0,0.00,0.00,1465719,2020,Pertussis
+Ubon Ratchathani,0,0.00,0,0.00,0.00,1872422,2020,Pertussis
+Yasothon,1,0.19,0,0.00,0.00,535900,2020,Pertussis
+ZONE:11,0,0.00,0,0.00,0.00,4489609,2020,Pertussis
+Chumphon,0,0.00,0,0.00,0.00,510256,2020,Pertussis
+Krabi,0,0.00,0,0.00,0.00,477254,2020,Pertussis
+Nakhon Si Thammarat,0,0.00,0,0.00,0.00,1556325,2020,Pertussis
+Phangnga,0,0.00,0,0.00,0.00,268509,2020,Pertussis
+Phuket,0,0.00,0,0.00,0.00,415527,2020,Pertussis
+Ranong,0,0.00,0,0.00,0.00,193871,2020,Pertussis
+Surat Thani,0,0.00,0,0.00,0.00,1067867,2020,Pertussis
+ZONE:12,5,0.10,0,0.00,0.00,4991217,2020,Pertussis
+Narathiwat,2,0.25,0,0.00,0.00,806224,2020,Pertussis
+Pattani,0,0.00,0,0.00,0.00,725559,2020,Pertussis
+Phatthalung,0,0.00,0,0.00,0.00,523971,2020,Pertussis
+Satun,0,0.00,0,0.00,0.00,323841,2020,Pertussis
+Songkhla,1,0.07,0,0.00,0.00,1432288,2020,Pertussis
+Trang,0,0.00,0,0.00,0.00,641868,2020,Pertussis
+Yala,2,0.37,0,0.00,0.00,537466,2020,Pertussis
+ZONE:13,3,0.05,0,0.00,0.00,5627243,2020,Pertussis
+Bangkok,3,0.05,0,0.00,0.00,5627243,2020,Pertussis
